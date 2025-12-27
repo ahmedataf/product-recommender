@@ -1,0 +1,3900 @@
+{
+  "hisenseme_products": [
+    {
+      "product_name": "Hisense U8K ULED MiniLED",
+      "product_name_citation": "https://hisenseme.com/products/uled-4k-u8k",
+      "technical_specifications": {
+        "display_sizes": [
+          "55\"",
+          "65\"",
+          "75\""
+        ],
+        "display_technology": "ULED, Mini-LED PRO, Quantum Dot Color",
+        "resolution": "4K",
+        "brightness": "Up to 1500 nits",
+        "dimming": "Up to 1300 full array dimming zones",
+        "refresh_rate": "Native 120Hz (Up to 144Hz in Game Mode PRO)",
+        "processor": "Hi-View Engine (Neural network with 4K upscaling)",
+        "hdr_support": [
+          "Dolby Vision",
+          "HDR10",
+          "HDR10+",
+          "HLG"
+        ],
+        "audio": "Dolby Atmos, DTS-powered audio, WISA Ready",
+        "connectivity": [
+          "HDMI 2.1",
+          "Bluetooth",
+          "Apple AirPlay",
+          "Share to TV"
+        ],
+        "smart_features": "Apple Home (HomeKit), One-touch entertainment access buttons"
+      },
+      "key_features": [
+        {
+          "value": "Mini-LED PRO: Deeper blacks and brighter highlights with low light diffusion.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        },
+        {
+          "value": "Quantum Dot Color: Produces over a billion shades of vivid, precise color.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        },
+        {
+          "value": "Total Ambient Adaptive: Built-in light and color sensors adjust picture settings based on room environment.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        },
+        {
+          "value": "IMAX Enhanced: Certified picture quality and DTS audio immersion.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        },
+        {
+          "value": "144Hz Game Mode PRO: Includes Variable Refresh Rate (VRR) and Auto Low Latency Mode (ALLM).",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        },
+        {
+          "value": "Game Bar: Real-time refresh rate/input lag reports and screen size/position adjustments.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        },
+        {
+          "value": "Ultra Motion: Clears up noise in fast-moving objects and inserts transitional frames.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        },
+        {
+          "value": "AI Sports Mode: Optimized picture and audio for fluid sports viewing.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        },
+        {
+          "value": "Apple Integration: Stream via AirPlay and control via Apple Home/Watch/Siri.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        },
+        {
+          "value": "EZPlay: Calibrate and control Hisense soundbars using the TV remote and on-screen interface.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u8k"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense U7K ULED MiniLED (ULED 4K U7K)",
+      "product_name_citation": "https://hisenseme.com/products/uled-4k-u7k",
+      "technical_specifications": {
+        "display_sizes": [
+          "100\"",
+          "85\"",
+          "75\"",
+          "65\"",
+          "55\""
+        ],
+        "display_type": "ULED Mini-LED with 4K Resolution",
+        "backlight_technology": "Tightly grouped Mini-LEDs with line emission for precision contrast control",
+        "dimming_zones": "Up to 1000 local dimming zones",
+        "processor": "Hi-View Engine (Neural network with real-time frame-level analysis)",
+        "hdr_support": [
+          "Dolby Vision",
+          "HDR10",
+          "HDR10+",
+          "HLG"
+        ],
+        "audio": "Dolby Atmos, DTS-powered audio immersion, WISA Ready",
+        "connectivity": [
+          "HDMI 2.1",
+          "AirPlay",
+          "Bluetooth",
+          "Share to TV",
+          "wireless and wired options"
+        ],
+        "gaming_specs": "Real-time refresh rate monitoring, low input lag, Game Bar",
+        "optimization": "AI Picture optimization (brightness, resolution, color), 4K upscaling",
+        "sensor": "Total Ambient Adaptive (senses brightness and color temperature)",
+        "soundbar_integration": "EZPlay (TV remote control for soundbar settings, visualized on-screen)"
+      },
+      "key_features": [
+        {
+          "value": "Mini-LED Technology: Delivers breathtaking detail and precise backlight control.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u7k"
+        },
+        {
+          "value": "Hi-View Engine: Brains of the TV for smooth running, 4K upscaling, and color enhancement.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u7k"
+        },
+        {
+          "value": "IMAX Enhanced: Certified to deliver IMAX signature picture quality and immersive audio at home.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u7k"
+        },
+        {
+          "value": "Filmmaker Mode: Adjusts video to original settings (sound, aspect ratio, color, frame rate) for authentic viewing.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u7k"
+        },
+        {
+          "value": "Game Bar: Tools for optimized gameplay including real-time status reports and resizable screen positioning.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u7k"
+        },
+        {
+          "value": "Total Ambient Adaptive: Automatically calibrates picture based on room lighting conditions.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u7k"
+        },
+        {
+          "value": "AI Sports Mode: Enhances picture and audio for fluid viewing of fast-moving objects and clear commentary.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u7k"
+        },
+        {
+          "value": "AI Real-Time Scenario Optimization: Automatically analyzes and adjusts frame composition.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u7k"
+        },
+        {
+          "value": "EZ Play: Seamlessly connects and calibrates Hisense soundbars using the TV remote.",
+          "value_citation": "https://hisenseme.com/products/uled-4k-u7k"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense UX RGB-MiniLED (116UX TriChroma LED TV)",
+      "product_name_citation": "https://hisenseme.com/products/ux-rgb-miniled",
+      "technical_specifications": {
+        "display_sizes": [
+          "100\"",
+          "116\""
+        ],
+        "display_technology": "RGB Mini LED with RGB Local Dimming Technology (individual red, green, and blue LEDs)",
+        "peak_brightness": "8000 nits",
+        "refresh_rate": "165Hz native refresh rate",
+        "local_dimming": "Thousands of RGB local dimming zones",
+        "processor": "Hi-View Engine X (AI-powered with Deep Neural Network)",
+        "audio_system": "6.2.2 multi-channel speakers",
+        "sound_tuning": "Opéra de Paris | Devialet sound system",
+        "audio_technologies": [
+          "Dolby Atmos",
+          "EzPlay",
+          "Hi-Orchestra",
+          "WiSA SoundSend",
+          "eARC"
+        ],
+        "gaming_specifications": "165Hz VRR (Variable Refresh Rate), 165Hz Game Mode Ultra, Game Bar",
+        "motion_processing": "MEMC (motion estimation and motion composition), AI Sports Mode",
+        "operating_system": "VIDAA OS (AI-powered)",
+        "screen_protection": "Anti-Reflection PRO",
+        "light_sensing": "Total Ambient Adaptive",
+        "connectivity_control": "Voice control, Smart home compatible, USB-C charging (remote)",
+        "remote_control": "Built-in solar panel, USB-C charging, Find my remote buzzer function"
+      },
+      "key_features": [
+        {
+          "value": "Vision Revolution: Uses red, green, and blue LEDs directly instead of filtered white/blue light for purer colors.",
+          "value_citation": "https://hisenseme.com/products/ux-rgb-miniled"
+        },
+        {
+          "value": "Infinity Vision: Expansive 116-inch display for immersive viewing.",
+          "value_citation": "https://hisenseme.com/products/ux-rgb-miniled"
+        },
+        {
+          "value": "Deep Neural Network: AI-optimized picture and sound tailored to content type (sports, animation, gaming, film).",
+          "value_citation": "https://hisenseme.com/products/ux-rgb-miniled"
+        },
+        {
+          "value": "Audio Synergy: Harmonizes TV and soundbar sources via EzPlay and Hi-Orchestra.",
+          "value_citation": "https://hisenseme.com/products/ux-rgb-miniled"
+        },
+        {
+          "value": "Anti-Glare: Anti-Reflection PRO tackles reflections from sunlit rooms or lamps.",
+          "value_citation": "https://hisenseme.com/products/ux-rgb-miniled"
+        },
+        {
+          "value": "Total Ambient Adaptive: Automatically adjusts picture based on room lighting and HDR metadata.",
+          "value_citation": "https://hisenseme.com/products/ux-rgb-miniled"
+        },
+        {
+          "value": "Smooth Motion: AI Sports Mode and dynamic algorithms remove noise from moving objects.",
+          "value_citation": "https://hisenseme.com/products/ux-rgb-miniled"
+        },
+        {
+          "value": "Find My Remote: Remote buzzes via voice command or TV button to help locate it.",
+          "value_citation": "https://hisenseme.com/products/ux-rgb-miniled"
+        },
+        {
+          "value": "Eco-friendly Remote: Uses ambient light and solar panels for charging to eliminate alkaline battery waste.",
+          "value_citation": "https://hisenseme.com/products/ux-rgb-miniled"
+        }
+      ]
+    },
+    {
+      "product_name": "100L5H 4K Ultra Short Throw Laser TV",
+      "product_name_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv",
+      "technical_specifications": {
+        "projection_size": "100-120 inches",
+        "resolution": "4K",
+        "brightness": "2700 lumens",
+        "static_contrast_ratio": "3000:1",
+        "throw_distance": "29.7cm for 100-inch screen",
+        "console_dimensions": "565.6W × 121.2H × 319.7D (mm)",
+        "display_surface": "Scratch-resistant with sturdy aluminum frame",
+        "operating_system": "VIDAA U6",
+        "audio": "Built-in speakers with Dolby Atmos support",
+        "connectivity": [
+          "Apple AirPlay 2",
+          "HomeKit",
+          "Built-in TV Tuner",
+          "HDMI",
+          "multiple modern ports for gaming/audio"
+        ],
+        "smart_assistants": [
+          "Alexa",
+          "VIDAA VOICE"
+        ],
+        "remote_control": "Magic Lighting Remote Controller",
+        "power_eco": "Uses 1/2 the power of same-sized LCD TVs; 90% recyclable materials"
+      },
+      "key_features": [
+        {
+          "value": "Ultra Short Throw: Large image from a short distance to the wall.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "Ambient Light Sensor: Auto-brightness adjustment based on room lighting.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "High Dynamic Range (HDR): Enhanced color and contrast including Dolby Vision.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "AIPQ Technology: AI real-time scenario-specific optimization for resolution, color, and lighting.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "Smooth Motion: Motion enhancement technology to eliminate judder and blur; includes Sports Mode.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "Filmmaker Mode: Disables post-processing to show content as intended by creators.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "Smart TV Capabilities: Access to Netflix, YouTube, Prime Video, Disney+, and Universal Search.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "Share to TV: Cast content via AirPlay 2 and other devices.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "Eye Safety: Reflected light design with almost zero blue light exposure to reduce eye strain.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "Design: Sleek silver-white body with premium gray wool textured fabric accent.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        },
+        {
+          "value": "Built-in Tuner: Processes and displays broadcasting TV signals directly.",
+          "value_citation": "https://hisenseme.com/products/100l5h-4k-ultra-short-throw-laser-tv"
+        }
+      ]
+    },
+    {
+      "product_name": "2.1CH ALL-IN-ONE SOUNDBAR HS214",
+      "product_name_citation": "https://hisenseme.com/products/2.1ch-all-in-one-soundbar-hs214",
+      "technical_specifications": {
+        "dimensions": "650W x 58H x 95D (mm)",
+        "total_power": "80 Watts",
+        "channels": "2.1CH",
+        "speaker_system": "Two front-facing speakers and one built-in subwoofer",
+        "connectivity": [
+          "HDMI OUT (ARC)",
+          "Bluetooth (Wireless)",
+          "Single HDMI cable support"
+        ],
+        "tv_compatibility": "Optimized for TVs 32\" or larger",
+        "integration": "Roku TV Ready (HDMI ARC control, on-screen settings)"
+      },
+      "key_features": [
+        {
+          "value": "All-in-One Design: Compact and elegant single-bar design with an integrated subwoofer to eliminate extra cables and external units.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-all-in-one-soundbar-hs214"
+        },
+        {
+          "value": "Powerful Bass: Built-in subwoofer for deep bass detail without a separate speaker.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-all-in-one-soundbar-hs214"
+        },
+        {
+          "value": "Wireless Music Streaming: Bluetooth technology for streaming from smartphones, tablets, or laptops.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-all-in-one-soundbar-hs214"
+        },
+        {
+          "value": "Multiple Audio Modes: Scene-specific audio enhancements including Movie mode, Music mode, and News mode.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-all-in-one-soundbar-hs214"
+        },
+        {
+          "value": "Roku TV Ready: Full compatibility with Roku TVs, allowing setup through one cable and control via a single Roku remote.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-all-in-one-soundbar-hs214"
+        },
+        {
+          "value": "Easy Connectivity: Simple one-cable HDMI ARC connection and wireless pairing options.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-all-in-one-soundbar-hs214"
+        },
+        {
+          "value": "Rich Audio Layers: Front-facing speakers deliver clear mid-range and high-frequency tones.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-all-in-one-soundbar-hs214"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense UHD 4K TV A6K",
+      "product_name_citation": "https://hisenseme.com/products/a6k",
+      "technical_specifications": {
+        "available_sizes": [
+          "43\"",
+          "50\"",
+          "55\"",
+          "58\"",
+          "65\"",
+          "70\"",
+          "75\""
+        ],
+        "resolution": "4K Ultra HD",
+        "backlight_type": "Direct Full Array",
+        "refresh_rate": "60Hz",
+        "hdr_support": "HDR10+ Decoding",
+        "gaming_technology": "Game Mode PLUS, Auto Low Latency Mode (ALLM)",
+        "audio_technology": "DTS Virtual:X",
+        "voice_control": [
+          "Alexa Built-in",
+          "VIDAA VOICE",
+          "Voice Remote"
+        ],
+        "connectivity_sharing": "Screen Sharing (Mirroring), Content Sharing (Casting)",
+        "picture_processing": [
+          "AI Picture",
+          "Pixel Tuning",
+          "AI Adaptive Depth"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Direct Full Array: Evenly distributed lights for steady, consistent blacks across the screen.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "AI Adaptive Depth: Enhances distance perception and layer definition for a more dramatic viewing experience.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "Pixel Tuning: Dynamically refines images to improve detail in both dark and bright areas.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "Precision Colour: Advanced algorithms and optics for accurate, natural-looking color reproduction.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "Smooth Motion: Minimizes blur for clearer fast-moving content.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "Game Mode PLUS: Combines a 60Hz panel and ALLM to reduce latency and ensure smooth gameplay.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "DTS Virtual:X: Provides immersive audio with enhanced bass and clear dialogue without external speakers.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "AI Sports Mode: Automatically optimizes picture and audio quality specifically for sports content and stadium-like atmosphere.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "AI Real-Time Scenario Optimization: Virtual technical expert that adjusts settings based on the content being viewed.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "Voice Remote: Integrated voice assistance for hands-free command.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        },
+        {
+          "value": "Multi-Screen Sharing: Allows mirroring or casting content from mobile devices to the TV screen.",
+          "value_citation": "https://hisenseme.com/products/a6k"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 3T Series Top Load Washing Machine",
+      "product_name_citation": "https://hisenseme.com/products/3t-series-washing-machine",
+      "technical_specifications": {
+        "model_numbers": [
+          "WT3T1623UT (16 kg)",
+          "WT3T1823UT (18 kg)",
+          "WT3T2023UT (20 kg)"
+        ],
+        "available_capacities": [
+          "16 kg",
+          "18 kg",
+          "20 kg"
+        ],
+        "color": "Titanium",
+        "dimensions_16kg": "640W x 670H x 1120D mm",
+        "dimensions_18kg": "690W x 700H x 1145D mm",
+        "dimensions_20kg": "690W x 700H x 1145D mm",
+        "lid_material": "Tempered glass"
+      },
+      "key_features": [
+        {
+          "value": "Rear Control Panel: Ergonomic design that prevents safety issues caused by water droplets on the panel.",
+          "value_citation": "https://hisenseme.com/products/3t-series-washing-machine"
+        },
+        {
+          "value": "Soak Function: Extended soak in detergent-rich water within the wash cycle for better decontamination.",
+          "value_citation": "https://hisenseme.com/products/3t-series-washing-machine"
+        },
+        {
+          "value": "Mega Capacity: Large tub capacity designed for family needs to save time, energy, and water.",
+          "value_citation": "https://hisenseme.com/products/3t-series-washing-machine"
+        },
+        {
+          "value": "Aqua Preserve: Saves water and energy by reserving water from the last rinse cycle.",
+          "value_citation": "https://hisenseme.com/products/3t-series-washing-machine"
+        },
+        {
+          "value": "Tub Clean: Specialized cycle to remove hidden grime and maintain tub freshness.",
+          "value_citation": "https://hisenseme.com/products/3t-series-washing-machine"
+        },
+        {
+          "value": "Smart Fuzzy Control: Automatically weighs laundry and matches water levels for convenience.",
+          "value_citation": "https://hisenseme.com/products/3t-series-washing-machine"
+        },
+        {
+          "value": "Soft-Closing Lid: Mechanism ensures the tempered glass lid lowers safely and silently.",
+          "value_citation": "https://hisenseme.com/products/3t-series-washing-machine"
+        },
+        {
+          "value": "Child Lock: Safety feature to prevent children from changing wash programs.",
+          "value_citation": "https://hisenseme.com/products/3t-series-washing-machine"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Top Mount 328L Refrigerator RT328N4DGN",
+      "product_name_citation": "https://hisenseme.com/products/328l-refrigerator-rt328n4dgn",
+      "technical_specifications": {
+        "model_number": "RT328N4DGN",
+        "total_capacity": "328L",
+        "dimensions": "595W x 665D x 1698H (mm)",
+        "color": "Silver",
+        "cooling_type": "Total No Frost",
+        "air_flow": "Multi Air Flow System",
+        "lighting": "LED Lighting",
+        "door_storage": "Big Door Balcony (Large capacity)"
+      },
+      "key_features": [
+        {
+          "value": "Total No Frost: Eliminates ice build-up, ensuring no need for manual defrosting, better preserved freshness, and cleaner shelves.",
+          "value_citation": "https://hisenseme.com/products/328l-refrigerator-rt328n4dgn"
+        },
+        {
+          "value": "Multi Air Flow: Consistently maintains optimum temperature throughout the unit by evenly distributing cold air.",
+          "value_citation": "https://hisenseme.com/products/328l-refrigerator-rt328n4dgn"
+        },
+        {
+          "value": "Large Capacity: 328L storage space.",
+          "value_citation": "https://hisenseme.com/products/328l-refrigerator-rt328n4dgn"
+        },
+        {
+          "value": "Big Door Capacity: Safely stores bulky items like large milk cartons, juice, and two rows of cans/bottles to free up shelf space.",
+          "value_citation": "https://hisenseme.com/products/328l-refrigerator-rt328n4dgn"
+        },
+        {
+          "value": "LED Lighting: Deeper, wider coverage to see all levels without being harsh or too bright.",
+          "value_citation": "https://hisenseme.com/products/328l-refrigerator-rt328n4dgn"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Wall Mounted Piston AC R410A (AS-24CT4SKFCA00)",
+      "product_name_citation": "https://hisenseme.com/products/piston,-r410a-as-24ct4skfca00",
+      "technical_specifications": {
+        "model_number": "AS-24CT4SKFCA00",
+        "refrigerant": "R410A",
+        "compressor_type": "Piston",
+        "indoor_dimensions": "1173mm W × 228mm H × 325mm D",
+        "outdoor_dimensions": "900mm W × 750H mm × 340mm D",
+        "installation_type": "Wall Mounted"
+      },
+      "key_features": [
+        {
+          "value": "4-in-1 Filter: Combination of four filters to remove dust and odors and refresh indoor air.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-24ct4skfca00"
+        },
+        {
+          "value": "Hi-Nano: Releases a large number of ion streams to kill and remove bacteria and viruses.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-24ct4skfca00"
+        },
+        {
+          "value": "Easy Cleaning: Interior unit can be disassembled and cleaned in less than one minute.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-24ct4skfca00"
+        },
+        {
+          "value": "Easy Installation: Unique structure allows gas and liquid pipes to be connected while the unit is hanging on the wall.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-24ct4skfca00"
+        },
+        {
+          "value": "Easy Maintenance: New indoor structure allows for PCB or cross-flow fan motor checks without moving the evaporator.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-24ct4skfca00"
+        },
+        {
+          "value": "Modern Design: Focused on attention to detail.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-24ct4skfca00"
+        }
+      ]
+    },
+    {
+      "product_name": "518L Side-by-Side Refrigerator RS670N4WSU",
+      "product_name_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu",
+      "technical_specifications": {
+        "total_capacity": "518 Liters",
+        "dimensions": "910W x 646D x 1786H (mm)",
+        "control_type": "Electronic Touch Control",
+        "lighting": "Soft LED Lighting",
+        "cooling_system": "Multi Air Flow",
+        "defrosting": "Total No Frost",
+        "filter": "Deodorizing Filter (Activated Carbon)",
+        "storage_components": [
+          "XXL Door Balcony",
+          "Full-width drawers",
+          "Chrome wine rack"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Water Dispenser: Modern design with brushed matte surface and modified structure for smooth flow.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "Total No Frost: Prevents ice crystal formation, eliminating the need for manual defrosting.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "Multi Air Flow: Consistently maintains optimum temperature by evenly distributing cold air.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "Super Cool: High-performance cooling to reach lower temperatures quickly.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "Super Freeze: Rapidly lowers temperature to lock in vitamins and nutrients.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "Soft LED Lighting: Environmentally friendly cold light that illuminates corners without increasing internal temperature.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "XXL Door Balcony: Extra-tall door pockets for gallon bottles and large beverage containers.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "Double Storage Drawers: Translucent, full-width drawers for organized, high-capacity storage.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "Electronic Touch Control: Humanized design for accurate temperature settings and easy operation.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "Deodorizing Filter: Activated Carbon filter eliminates odors to keep air fresh and preserve food flavor.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        },
+        {
+          "value": "Chrome Wine Rack: Dedicated storage for wine bottles.",
+          "value_citation": "https://hisenseme.com/products/518l-side-by-side-refrigerator-rs670n4wsu"
+        }
+      ]
+    },
+    {
+      "product_name": "10KG FRONT LOAD WASHING MACHINE WFQY1014",
+      "product_name_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm",
+      "technical_specifications": {
+        "washing_capacity": "10kg",
+        "maximum_spin_speed": "1400 RPM",
+        "energy_efficiency_class": "B",
+        "spin_efficiency_class": "B",
+        "noise_level_spin": "72 dB",
+        "motor_type": "Inverter Technology",
+        "display": "LED",
+        "voltage": "220-240V",
+        "frequency": "50Hz",
+        "water_pressure": "0.1-1.0 MPa",
+        "dimensions": "595W x 610D x 845H mm",
+        "net_weight": "67 kg"
+      },
+      "key_features": [
+        {
+          "value": "Steam Wash: High-temperature steam for allergen removal and deep cleaning.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "Pure Jet Wash: Powerful water flow to dissolve detergent and remove stains quickly.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "Pause & Add: Allows adding clothes after the cycle has started.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "Snowflake Drum: Unique drum pattern designed to protect delicate fabrics.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "Durable Inverter: Quiet, energy-efficient, and long-lasting motor performance.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "15-Minute Quick Wash: Rapid cycle for small, lightly soiled loads.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "Drum Clean: Specialized self-cleaning cycle to maintain hygiene.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "Child Lock: Safety feature to prevent accidental setting changes.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "Delay End: Scheduled cycle completion time.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "Self-Diagnostic System: Automatic fault detection and error code display.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        },
+        {
+          "value": "Allergy Care: Specialized program to minimize allergens.",
+          "value_citation": "https://hisenseme.com/products/10kg-front-load-washing-machine-wfqy1014vjm"
+        }
+      ]
+    },
+    {
+      "product_name": "WALL MOUNTED DC INVERTER R410A (AS-24TF4RBFCA00)",
+      "product_name_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-24tf4rbfca00)",
+      "technical_specifications": {
+        "indoor_dimensions": "1173W × 325H × 228D",
+        "outdoor_dimensions": "860W × 650H × 310D",
+        "refrigerant": "R410A",
+        "technology": "3D Inverter Technology",
+        "energy_efficiency": "Reduces power consumption by 30%",
+        "components": "Optimized inner air duct, advanced louver fin",
+        "control": "WiFi Control (Android and iOS compatible)",
+        "maintenance": "Access to PCB and cross-flow fan motor without moving the evaporator"
+      },
+      "key_features": [
+        {
+          "value": "WiFi Control: Manage settings inside and outside the home via mobile device.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-24tf4rbfca00)"
+        },
+        {
+          "value": "4-in-1 Filter: Combination of four filters to remove dust and odors.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-24tf4rbfca00)"
+        },
+        {
+          "value": "Hi-Nano: Releases ion streams to kill and remove bacteria and viruses from recycled air.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-24tf4rbfca00)"
+        },
+        {
+          "value": "High Energy Efficiency: Enhanced efficiency through 3D inverter and optimized air duct design.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-24tf4rbfca00)"
+        },
+        {
+          "value": "Easy Cleaning: Interior unit can be disassembled and cleaned in less than one minute.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-24tf4rbfca00)"
+        },
+        {
+          "value": "Easy Installation: Unique structure allows gas and liquid pipes to be connected while the unit is hanging on the wall.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-24tf4rbfca00)"
+        },
+        {
+          "value": "Easy Maintenance: New indoor structure simplifies checking the PCB or fan motor.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-24tf4rbfca00)"
+        },
+        {
+          "value": "Modern Design: Focused on attention to detail.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-24tf4rbfca00)"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense PL1H 4K SMART (PL1 Laser Cinema)",
+      "product_name_citation": "https://hisenseme.com/products/pl1h-4k-smart",
+      "technical_specifications": {
+        "resolution": "4K Ultra HD (over 8 million pixels)",
+        "projection_size": "80\" to 120\"",
+        "console_dimensions": "531W x 120H x 335D (mm)",
+        "brightness": "2100 ANSI Lumens",
+        "static_contrast_ratio": "3000:1",
+        "light_source": "X-Fusion Laser Technology (Tri-chroma fusion)",
+        "light_source_life": "25,000+ hours",
+        "throw_technology": "Ultra Short Throw (42cm for 120\")",
+        "colors": "1.06 Billion colors",
+        "hdr": [
+          "High Dynamic Range (HDR)",
+          "Dolby Vision HDR"
+        ],
+        "audio": "Built-in Top-firing speakers, Dolby Atmos",
+        "connectivity": [
+          "HDMI 2.1 with eARC support",
+          "Apple Airplay 2",
+          "Apple HomeKit"
+        ],
+        "operating_system": "VIDAA U6",
+        "motion": "Smooth Motion",
+        "remote": "Hands-free Voice Remote (up to 3m range) with Voice command button"
+      },
+      "key_features": [
+        {
+          "value": "X-Fusion Laser Technology: Delivers sharper images and more natural colors.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Ultra Short Throw: Massive screen with minimal footprint/distance from wall.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Dolby Vision & Atmos: Cinematic audio-visual optimization and immersive sound.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Filmmaker Mode: Displays content with original calibration and pure expression as intended by directors.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Game Mode: Features Auto Low Latency Mode (ALLM) for next-gen gaming response.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Auto Geometric Calibration: Simplifies image and screen alignment.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Eye Protection: Reflected light reduces eye strain; Auto-Laser shut off activates when objects are too close.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Hands-free Voice Control: Distance voice command capability.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Apple Integration: Share content via Airplay 2 and manage via HomeKit.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Compact Design: Premium minimalist small form factor console.",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        },
+        {
+          "value": "Longevity: Rated for over 18 years of use (4 hours daily).",
+          "value_citation": "https://hisenseme.com/products/pl1h-4k-smart"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 5T Series Washing Machine (Top Load) WT5T2025DB00",
+      "product_name_citation": "https://hisenseme.com/products/5t-series-washing-machine",
+      "technical_specifications": {
+        "model_number": "WT5T2025DB00",
+        "capacity": "20 kg (Mega Capacity)",
+        "dimensions": "690mm (W) x 700mm (H) x 1145mm (D)",
+        "color": "Black",
+        "motor_type": "DD Inverter (Direct Drive)",
+        "lid_material": "Tempered Glass",
+        "control_panel": "Rear Control Panel"
+      },
+      "key_features": [
+        {
+          "value": "Connect Life: Automation app for remote connection, monitoring, and control via smartphone.",
+          "value_citation": "https://hisenseme.com/products/5t-series-washing-machine"
+        },
+        {
+          "value": "Tide Wash: High rotation speed and short suspend time for powerful water splash and deep detergent penetration.",
+          "value_citation": "https://hisenseme.com/products/5t-series-washing-machine"
+        },
+        {
+          "value": "DD Inverter Technology: Frictionless mechanism for energy efficiency, reduced vibration, and quiet operation.",
+          "value_citation": "https://hisenseme.com/products/5t-series-washing-machine"
+        },
+        {
+          "value": "Mega Capacity: Large tub designed to accommodate family-sized loads to save time, energy, and water.",
+          "value_citation": "https://hisenseme.com/products/5t-series-washing-machine"
+        },
+        {
+          "value": "Soft Closing Lid: Tempered glass lid that closes gently and silently for safety and visibility.",
+          "value_citation": "https://hisenseme.com/products/5t-series-washing-machine"
+        },
+        {
+          "value": "Smart Fuzzy Control: Automatically weighs laundry to match water levels for optimized washing.",
+          "value_citation": "https://hisenseme.com/products/5t-series-washing-machine"
+        },
+        {
+          "value": "Rear Control Panel: Ergonomic design that prevents water droplet damage and increases durability.",
+          "value_citation": "https://hisenseme.com/products/5t-series-washing-machine"
+        },
+        {
+          "value": "Aqua Preserve: Reserves water from the last rinse cycle to save energy and water.",
+          "value_citation": "https://hisenseme.com/products/5t-series-washing-machine"
+        },
+        {
+          "value": "Soak Function: Extended soaking time within the wash cycle to enhance detergent penetration and decontamination.",
+          "value_citation": "https://hisenseme.com/products/5t-series-washing-machine"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense QLED E7 (QD 4K TV)",
+      "product_name_citation": "https://hisenseme.com/products/e7",
+      "technical_specifications": {
+        "available_sizes": [
+          "100\"",
+          "85\"",
+          "75\"",
+          "65\"",
+          "55\""
+        ],
+        "display_type": "QLED (Quantum Dot Color)",
+        "resolution": "4K Ultra HD",
+        "backlight_technology": "Direct Full Array",
+        "refresh_rate": "60Hz panel (Game Mode Plus); 240 High Refresh Rate",
+        "hdr_support": [
+          "Dolby Vision",
+          "HDR10+ Decoding"
+        ],
+        "image_processing": [
+          "4K AI Upscaler",
+          "AI Picture (real-time scenario-specific optimization)",
+          "Pixel Tuning",
+          "Depth Enhancer"
+        ],
+        "motion_enhancement": "MEMC",
+        "audio": "Dolby Atmos",
+        "connectivity": [
+          "Bluetooth (headphones support)",
+          "Apple AirPlay",
+          "Share to TV (screen mirroring/casting)"
+        ],
+        "smart_integration": [
+          "Google Home",
+          "Apple Home (HomeKit)",
+          "Voice Command"
+        ],
+        "sensors": "Adaptive Light Sensor"
+      },
+      "key_features": [
+        {
+          "value": "Quantum Dot Colour: Over one billion shades of vivid, true-to-life color.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "Direct Full Array: Precision lighting for deep blacks and rich colors across the screen.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "Pixel Tuning: Pixel-level adjustments for noise reduction and adaptive brightness.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "4K AI Upscaler: Enhances sub-4K content to near-4K quality.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "AI Picture: Frame-level real-time image optimization.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "AI Sports Mode: Automatically detects sports content to enhance visuals and audio for a stadium-like experience.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "Game Mode Plus: Features a 60Hz panel and Game Bar for lag-free gameplay.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "Filmmaker Mode: Adjusts video to original settings (color, aspect ratio, frame rate) for authentic viewing.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "Adaptive Light Sensor: Automatically adjusts screen brightness based on ambient room light.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "Smart Ecosystem: Integrated OS for global/local content, compatible with Apple and Google smart home ecosystems.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        },
+        {
+          "value": "Share to TV: Seamlessly mirror and cast content from mobile devices to the TV.",
+          "value_citation": "https://hisenseme.com/products/e7"
+        }
+      ]
+    },
+    {
+      "product_name": "535L Side-by-Side Refrigerator RS696N4IGU1",
+      "product_name_citation": "https://hisenseme.com/products/535l-side-by-side-refrigerator-rs696n4igu",
+      "technical_specifications": {
+        "model": "RS696N4IGU1",
+        "total_capacity": "535L",
+        "dimensions": "910W x 689D x 1786.5H (mm)",
+        "available_color": "Inox",
+        "sensor_type": "Five high-effective Digital Temp Sensors",
+        "cooling_system": "Independent Fridge & Freezer Zone (Independent temp system control), Multi Air Flow System",
+        "water_system": "Non-plumbed water tank"
+      },
+      "key_features": [
+        {
+          "value": "Ice & Water Dispenser: Produces ice and water daily with options for ice cubes, crushed ice, and cooled water at the push of a button.",
+          "value_citation": "https://hisenseme.com/products/535l-side-by-side-refrigerator-rs696n4igu"
+        },
+        {
+          "value": "Independent Fridge and Freezer Zone: Separate cooling systems maintain high humidity in the fridge to keep ingredients fresh for longer.",
+          "value_citation": "https://hisenseme.com/products/535l-side-by-side-refrigerator-rs696n4igu"
+        },
+        {
+          "value": "Non-Plumbed Water Tank: Stylish dispenser provides cooled water on tap without the need for external plumbing; quick and easy to install.",
+          "value_citation": "https://hisenseme.com/products/535l-side-by-side-refrigerator-rs696n4igu"
+        },
+        {
+          "value": "Self-closing System: Doors are engineered to close automatically when open at an angle of up to 15°.",
+          "value_citation": "https://hisenseme.com/products/535l-side-by-side-refrigerator-rs696n4igu"
+        },
+        {
+          "value": "Multi Air Flow: Even distribution of cold air maintains an optimum, consistent temperature throughout the fridge and freezer.",
+          "value_citation": "https://hisenseme.com/products/535l-side-by-side-refrigerator-rs696n4igu"
+        },
+        {
+          "value": "Digital Sensors: Built-in sensors specifically engineered to monitor and adjust cooling performance.",
+          "value_citation": "https://hisenseme.com/products/535l-side-by-side-refrigerator-rs696n4igu"
+        }
+      ]
+    },
+    {
+      "product_name": "PX2-PRO Laser Cinema (Trichroma Laser Cinema)",
+      "product_name_citation": "https://hisenseme.com/products/px2pro",
+      "technical_specifications": {
+        "projection_size": "90\" – 130\"",
+        "resolution": "4K UHD (8 million+ pixels)",
+        "brightness": "2400 Lumens",
+        "light_source": "X-Fusion Laser (Pure Red, Green, Blue lasers)",
+        "color_space": "107% BT.2020",
+        "static_contrast_ratio": "1000:1",
+        "refresh_rate_motion": "Smooth Motion with MEMC (microsecond-level response time)",
+        "hdr_support": [
+          "Dolby Vision",
+          "HDR10",
+          "HLG"
+        ],
+        "audio": "30 Watt Built-in speakers; Dolby Atmos support",
+        "connectivity": "HDMI 2.1 with eARC",
+        "operating_system": "VIDAA",
+        "voice_assistants": [
+          "Alexa",
+          "VIDAA VOICE"
+        ],
+        "dimensions_console": "520W × 160H × 324D (mm)",
+        "lifespan": "25,000+ hours",
+        "throw_ratio": "Ultra Short Throw"
+      },
+      "key_features": [
+        {
+          "value": "3 Pure Color Laser: Premium X-Fusion technology for natural color representation.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        },
+        {
+          "value": "Wide Color Gamut: Surpasses flat panel TVs by reaching 107% of BT.2020.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        },
+        {
+          "value": "Ultra Short Throw: Projects large images from a very short distance from the wall.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        },
+        {
+          "value": "Game Mode: Optimized for smooth motion and low latency for gaming.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        },
+        {
+          "value": "Filmmaker Mode: Preserves original movie settings and director's intent.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        },
+        {
+          "value": "Auto Geometric Calibration: Simplifies image and screen alignment.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        },
+        {
+          "value": "Eye Safety: Low blue light emission and auto-laser shut-off when objects are too close.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        },
+        {
+          "value": "Eye Friendly: Reflected light technology to reduce eyestrain.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        },
+        {
+          "value": "Smart Features: Access to global content via VIDAA; hands-free voice remote.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        },
+        {
+          "value": "Design: Compact, modern architectural concept with metal finishes.",
+          "value_citation": "https://hisenseme.com/products/px2pro"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense U7N ULED MiniLED",
+      "product_name_citation": "https://hisenseme.com/products/u7n",
+      "technical_specifications": {
+        "screen_sizes": [
+          "55\"",
+          "65\"",
+          "75\"",
+          "85\"",
+          "100\""
+        ],
+        "resolution": "4K",
+        "display_type": "ULED MiniLED (Mini-LED Pro)",
+        "refresh_rate": "144Hz (Game Mode PRO) / 120Hz (Ultra Motion)",
+        "brightness": "1500 nits",
+        "processor": "Hi-View Engine PRO (Deep Neural Network AI)",
+        "hdr_support": "Total HDR Solution (Dolby Vision, HDR10, HDR10+, HLG)",
+        "audio": "Built-in Subwoofer, Dolby Atmos, DTS-powered audio",
+        "motion_enhancement": "120Hz Ultra Motion, MEMC, 3D Noise Reduction",
+        "dimming": "Dynamic Tone Mapping PRO (analyzing 500,000+ dimming zones)",
+        "control": "Hands-Free Voice Control, EZplay (soundbar control via TV remote)"
+      },
+      "key_features": [
+        {
+          "value": "Mini-LED Pro: Precise backlight control for intense brightness and deep blacks.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "Quantum Dot Colour: Enhanced color accuracy and vibrancy.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "144Hz Game Mode PRO: Ultra-fluid motion with integrated Game Bar, VRR (Variable Refresh Rate), and low latency MEMC.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "Hi-View Engine PRO: AI-driven real-time pixel analysis for 4K upscaling and color enhancement.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "Built-In Subwoofer: Integrated deep bass audio without external units.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "Total Ambient Adaptive: Automatically adjusts brightness, color warmth, and depth based on room lighting.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "IMAX Enhanced: Certified signature picture quality and audio immersion.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "Filmmaker Mode: Preserves original settings (aspect ratio, color, frame rate) for authentic viewing.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "AI Sports Mode: Optimized visuals for sports content.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "Game Bar: On-screen dashboard for real-time metrics (FPS, HDR, VRR) and screen adjustments.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "Infinity Vision: Massive diagonal display for cinematic immersion.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        },
+        {
+          "value": "Smart OS: Unified interface for global and local content with personalized preferences.",
+          "value_citation": "https://hisenseme.com/products/u7n"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 5S Series Washing Machine",
+      "product_name_citation": "https://hisenseme.com/products/5s-12kg-washing-machine",
+      "technical_specifications": {
+        "models": [
+          "Black: WE5S1245BW",
+          "White: WF5S1045BW"
+        ],
+        "available_capacities": [
+          "12 kg",
+          "10.5 kg"
+        ],
+        "dimensions_12kg": "595mm (W) x 660mm (H) x 845mm (D)",
+        "dimensions_10_5kg": "595mm (W) x 610mm (H) x 845mm (D)",
+        "motor_type": "Durable Inverter",
+        "connectivity": "Wi-Fi / Smartphone integration via Connect Life app",
+        "hygiene": "Steam-based disinfection (Hygiene Guard)",
+        "dispensing": "Auto Dosing system"
+      },
+      "key_features": [
+        {
+          "value": "Connect Life: Remote control via smartphone to start, pause, or monitor wash cycles from anywhere.",
+          "value_citation": "https://hisenseme.com/products/5s-12kg-washing-machine"
+        },
+        {
+          "value": "Ion Gen: Generates negatively ionized air to remove 30% more stains, eliminate microbes, and prevent limescale buildup.",
+          "value_citation": "https://hisenseme.com/products/5s-12kg-washing-machine"
+        },
+        {
+          "value": "Hygiene Guard: Uses hot water and steam to eliminate 99.9% of microbes through a dedicated disinfecting step.",
+          "value_citation": "https://hisenseme.com/products/5s-12kg-washing-machine"
+        },
+        {
+          "value": "Auto Dosing: Stores detergent for up to 24 loads (approximately one month); automatically measures and dispenses detergent/softener based on laundry weight.",
+          "value_citation": "https://hisenseme.com/products/5s-12kg-washing-machine"
+        },
+        {
+          "value": "Pure Steam: Upgraded steam system for stain removal, disinfection, and softening; reduces the need for ironing.",
+          "value_citation": "https://hisenseme.com/products/5s-12kg-washing-machine"
+        },
+        {
+          "value": "Durable Inverter: Energy-efficient motor technology designed to minimize wear and reduce energy consumption.",
+          "value_citation": "https://hisenseme.com/products/5s-12kg-washing-machine"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Side-By-Side Refrigerator 637L (RS3N668SMI3)",
+      "product_name_citation": "https://hisenseme.com/products/637l",
+      "technical_specifications": {
+        "model": "RS3N668SMI3",
+        "total_capacity": "637L",
+        "dimensions": "910mm (W) x 717mm (D) x 1795mm (H)",
+        "color": "Inox",
+        "compressor": "Durable Inverter",
+        "water_dispenser": "Non-plumbed with internal tank",
+        "cooling_system": "Multi Air Flow",
+        "temperature_control": "Dual Temp Control Zone (Independent fridge and freezer controls)",
+        "super_cool_temperature": "+2℃ for 6 hours"
+      },
+      "key_features": [
+        {
+          "value": "Non-Plumbed Water Dispenser: Integrated into the flat door; requires manual filling of internal tank for chilled water.",
+          "value_citation": "https://hisenseme.com/products/637l"
+        },
+        {
+          "value": "Multi Air Flow: Circulates cold air through vents on every shelf level for even temperature distribution and constant cooling.",
+          "value_citation": "https://hisenseme.com/products/637l"
+        },
+        {
+          "value": "Dual Temp Control Zone: Independent temperature and humidity control systems for fridge and freezer compartments.",
+          "value_citation": "https://hisenseme.com/products/637l"
+        },
+        {
+          "value": "Durable Inverter: Compressor adjusts cooling output based on internal conditions to save energy, reduce noise, and extend appliance lifespan.",
+          "value_citation": "https://hisenseme.com/products/637l"
+        },
+        {
+          "value": "Super Cool Function: Rapidly drops fridge temperature to preserve the flavor and nutritional value of fresh groceries.",
+          "value_citation": "https://hisenseme.com/products/637l"
+        },
+        {
+          "value": "Super Freeze Function: Quickly lowers freezer temperature to freeze food faster, retaining natural texture and vitamins.",
+          "value_citation": "https://hisenseme.com/products/637l"
+        }
+      ]
+    },
+    {
+      "product_name": "2.1CH SOUNDBAR WITH WIRELESS SUBWOOFER HS218",
+      "product_name_citation": "https://hisenseme.com/products/2.1ch-soundbar-with-wireless-subwoofer-hs218",
+      "technical_specifications": {
+        "channels": "2.1 CH",
+        "total_power": "200W",
+        "speakers": "4 speakers in soundbar plus 1 wireless subwoofer",
+        "soundbar_dimensions": "960W x 58H x 82D (mm)",
+        "audio_technology": "Dolby Audio",
+        "audio_modes": [
+          "Movie mode",
+          "Music mode",
+          "News mode"
+        ],
+        "connectivity": [
+          "HDMI OUT (ARC)",
+          "Bluetooth",
+          "HDMI ARC (for Roku TV)"
+        ],
+        "tuning": "Professional master-level sound effect tuning"
+      },
+      "key_features": [
+        {
+          "value": "Wireless Subwoofer: Powerful bass with individual adjustment via remote control (Bass and Dimmer +/- buttons).",
+          "value_citation": "https://hisenseme.com/products/2.1ch-soundbar-with-wireless-subwoofer-hs218"
+        },
+        {
+          "value": "Roku TV Ready: Fully compatible with Roku TV through one HDMI ARC cable; allows use of one remote and integrated on-screen settings.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-soundbar-with-wireless-subwoofer-hs218"
+        },
+        {
+          "value": "Wireless Streaming: Bluetooth technology for connecting smartphones, tablets, or laptops.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-soundbar-with-wireless-subwoofer-hs218"
+        },
+        {
+          "value": "Multiple Audio Enhancements: Scene-specific modes (Movie, Music, News).",
+          "value_citation": "https://hisenseme.com/products/2.1ch-soundbar-with-wireless-subwoofer-hs218"
+        },
+        {
+          "value": "Ease of Use: Control both TV and Soundbar with a single remote.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-soundbar-with-wireless-subwoofer-hs218"
+        },
+        {
+          "value": "Design: Simple metal luster surface design.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-soundbar-with-wireless-subwoofer-hs218"
+        },
+        {
+          "value": "Compatibility: Designed as a companion for Hisense ULED TVs.",
+          "value_citation": "https://hisenseme.com/products/2.1ch-soundbar-with-wireless-subwoofer-hs218"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Top-Mount RT Series Refrigerator 545L RT545N4ASU1",
+      "product_name_citation": "https://hisenseme.com/products/top-mount-545l-rt545n4asu1",
+      "technical_specifications": {
+        "model_number": "RT545N4ASU1",
+        "capacity": "545L",
+        "dimensions": "1720W x 685D x 70H (mm)",
+        "available_color": "Silver"
+      },
+      "key_features": [
+        {
+          "value": "Total No Frost: Advanced technology circulates cold air to prevent ice crystal formation and eliminate the need for manual defrosting.",
+          "value_citation": "https://hisenseme.com/products/top-mount-545l-rt545n4asu1"
+        },
+        {
+          "value": "Multi Air Flow: Ensures even distribution of cooling air throughout the entire product, regardless of how full it is.",
+          "value_citation": "https://hisenseme.com/products/top-mount-545l-rt545n4asu1"
+        },
+        {
+          "value": "Removable Twist Ice Maker: Detachable accessory featuring a simple twist-release mechanism and a dedicated storage container.",
+          "value_citation": "https://hisenseme.com/products/top-mount-545l-rt545n4asu1"
+        },
+        {
+          "value": "Mechanical Temperature Control: Equipped with an adjustable thermostat to customize temperature levels.",
+          "value_citation": "https://hisenseme.com/products/top-mount-545l-rt545n4asu1"
+        },
+        {
+          "value": "Easy Approach Drawers: Designed for instant, convenient access to stored food.",
+          "value_citation": "https://hisenseme.com/products/top-mount-545l-rt545n4asu1"
+        },
+        {
+          "value": "Fresh Crisper: Dedicated Fresh Zone for fruits and vegetables with a transparent design to preserve freshness, aroma, and provide easy visibility of contents.",
+          "value_citation": "https://hisenseme.com/products/top-mount-545l-rt545n4asu1"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Mini-LED ULED X",
+      "product_name_citation": "https://hisenseme.com/products/mini-led-uled-x",
+      "technical_specifications": {
+        "display_size": "85\"",
+        "display_technology": "Mini-LED X, QLED, Dynamic X Display",
+        "backlight": "20,000+ Mini-LEDs",
+        "local_dimming": "5,000+ zones",
+        "peak_brightness": "2,500 nits",
+        "refresh_rate": "Native 120Hz (144Hz in Game Mode PRO)",
+        "processor": "Hi-VIEW Engine X (16-bit AI neural chipset)",
+        "processing_power": "65,536 brightness levels",
+        "audio_system": "CineStage X Surround, 4.1.2 Multi-Channel Surround Sound",
+        "audio_power": "80W total power",
+        "speaker_configuration": "7 speakers including a built-in subwoofer",
+        "audio_formats": "Dolby Atmos",
+        "hdr_support": [
+          "Dolby Vision",
+          "HDR10",
+          "HDR10+",
+          "HLG",
+          "HDR10+ Adaptive",
+          "Dolby Vision IQ"
+        ],
+        "smart_connectivity": [
+          "Apple AirPlay",
+          "Apple Home (HomeKit)"
+        ],
+        "compatibility": [
+          "iPhone",
+          "iPad",
+          "Mac",
+          "Apple Watch",
+          "HomePod mini"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Mini-LED X Technology: High-density backlight for superior contrast and detail.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "Hi-VIEW Engine X: Advanced visual processing using an AI neural chipset.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "Dynamic X Display: Optimized image quality for any angle or lighting condition.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "IMAX Enhanced: Certified devices and remastered content for cinema-grade viewing.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "Filmmaker Mode: Disables post-processing to maintain original aspect ratios, colors, and frame rates.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "AI Sports Mode: Uses dynamic algorithms to remove noise and clarify fast-moving objects.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "144Hz Game Mode PRO: Specialized gaming performance with high refresh rates.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "Gaming in Dolby Vision: Enhanced visuals for compatible gaming titles.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "CineStage X Surround: Integrated multi-channel audio for immersive sound.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "High Brightness Dynamic Contrast Range: Support for all major HDR formats with environmental light sensing.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        },
+        {
+          "value": "Apple Integration: Wireless streaming and smart home control via Apple ecosystem.",
+          "value_citation": "https://hisenseme.com/products/mini-led-uled-x"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense ULED U6K",
+      "product_name_citation": "https://hisenseme.com/products/u6k",
+      "technical_specifications": {
+        "available_sizes": [
+          "65\"",
+          "55\""
+        ],
+        "display_type": "ULED, Quantum Dot Colour",
+        "processor": "HI-View Engine (Neural network, frame-level analysis)",
+        "resolution_support": "4K Upscaling",
+        "hdr_formats": "Total HDR Solution (HDR10, HDR10+, HLG, Dolby Vision)",
+        "audio": "Dolby Atmos, EZ Play (Soundbar integration and TV remote control)",
+        "gaming": "Game Mode Plus",
+        "sensors": "Adaptive Light Sensor (Ambient light monitoring)",
+        "optimization": "AI Picture Optimization, AI Sport Mode"
+      },
+      "key_features": [
+        {
+          "value": "Quantum Dot Colour: Emits precise wavelengths of light to produce over a billion shades and high color volume.",
+          "value_citation": "https://hisenseme.com/products/u6k"
+        },
+        {
+          "value": "HI-View Engine: Intelligent processor that manages 4K upscaling, color enhancement, and real-time scene optimization.",
+          "value_citation": "https://hisenseme.com/products/u6k"
+        },
+        {
+          "value": "Adaptive Light Sensor: Automatically adjusts screen brightness based on the room's ambient light for better contrast.",
+          "value_citation": "https://hisenseme.com/products/u6k"
+        },
+        {
+          "value": "Total HDR Solution: Support for all major HDR formats to ensure compatibility and enhanced detail.",
+          "value_citation": "https://hisenseme.com/products/u6k"
+        },
+        {
+          "value": "Dolby Vision Atmos: Integrated cinematic picture and sound technology for a more immersive experience.",
+          "value_citation": "https://hisenseme.com/products/u6k"
+        },
+        {
+          "value": "Game Mode Plus: Technologies designed to reduce latency and provide smooth gaming performance.",
+          "value_citation": "https://hisenseme.com/products/u6k"
+        },
+        {
+          "value": "AI Sport Mode: Enhances fast-moving objects and cleans up picture/audio for fluid sports viewing.",
+          "value_citation": "https://hisenseme.com/products/u6k"
+        },
+        {
+          "value": "AI Optimization: Real-time scenario-specific optimization that adjusts brightness, resolution, and color automatically.",
+          "value_citation": "https://hisenseme.com/products/u6k"
+        },
+        {
+          "value": "EZ Play: Control Hisense soundbar via TV remote with on-screen visualization for bass and treble adjustments.",
+          "value_citation": "https://hisenseme.com/products/u6k"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense TV MATE 2.0CH Soundbar HS205",
+      "product_name_citation": "https://hisenseme.com/products/tv-mate-2.0ch-soundbar-hs205",
+      "technical_specifications": {
+        "channels": "2.0 CH",
+        "total_power": "60 Watts",
+        "speakers": "Two built-in full-range speakers",
+        "connectivity": [
+          "Bluetooth",
+          "HDMI OUT (ARC)"
+        ],
+        "dimensions": "950W x 66H x 60D (mm)",
+        "compatibility": "Roku TV Ready, Smart devices (Smartphone, tablet, laptop)"
+      },
+      "key_features": [
+        {
+          "value": "Easy Connectivity: Single HDMI cable connection via HDMI ARC.",
+          "value_citation": "https://hisenseme.com/products/tv-mate-2.0ch-soundbar-hs205"
+        },
+        {
+          "value": "Wireless Music Streaming: Bluetooth technology for wireless connection to smart devices.",
+          "value_citation": "https://hisenseme.com/products/tv-mate-2.0ch-soundbar-hs205"
+        },
+        {
+          "value": "Roku TV Ready: Fully compatible with Roku TV through HDMI ARC with integrated on-screen settings.",
+          "value_citation": "https://hisenseme.com/products/tv-mate-2.0ch-soundbar-hs205"
+        },
+        {
+          "value": "One Remote Control: Control both TV and Soundbar with a single remote via HDMI ARC.",
+          "value_citation": "https://hisenseme.com/products/tv-mate-2.0ch-soundbar-hs205"
+        },
+        {
+          "value": "Multiple Audio Enhancements: Includes Movie mode, Music mode, and News mode.",
+          "value_citation": "https://hisenseme.com/products/tv-mate-2.0ch-soundbar-hs205"
+        },
+        {
+          "value": "Compact Design: Designed to pair seamlessly with home TVs.",
+          "value_citation": "https://hisenseme.com/products/tv-mate-2.0ch-soundbar-hs205"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense ULED X MiniLED",
+      "product_name_citation": "https://hisenseme.com/products/uled-x-miniled",
+      "technical_specifications": {
+        "display_sizes": [
+          "110\"",
+          "85\""
+        ],
+        "display_type": "ULED MiniLED (Mini-LED X)",
+        "resolution": "4K",
+        "refresh_rate": "120Hz native, 144Hz (Game Mode PRO)",
+        "peak_brightness": "Up to 10,000 nits",
+        "local_dimming": "40,000 Full Array Local Dimming zones",
+        "processor": "Hi-View Engine X (8 times hashrate)",
+        "screen_technology": "Dynamic X-Display, Low Reflection Screen (reflection reduced from 5% to 1.2%)",
+        "audio": "CineStage X Surround, 4.2.2 channel surround sound",
+        "operating_system": "VIDAA OS",
+        "connectivity": "USB-C (on remote), Smart home compatible",
+        "hdr_support": "Multiple HDR technologies, Gaming in Dolby Vision"
+      },
+      "key_features": [
+        {
+          "value": "Hi-View Engine X: AI-driven human-like processing.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "Mini-LED X: Precise light management and extreme detail.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "Low Reflection Screen: 20% better anti-glare for cinematic viewing.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "Wide Viewing Angle: 40% wider viewing angle with Dynamic X-Display.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "Quantum Dot Colour: 25% richer colours using advanced colour management.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "144Hz Game Mode PRO: Includes Game Bar, low latency MEMC, and Dolby Vision gaming.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "AI Sports Mode: MEMC and dynamic algorithms for smooth motion in fast-paced content.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "Total Ambient Adaptive: Senses and adjusts picture based on room lighting.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "Hands-Free Voice Control: Voice command functionality for TV and smart home devices.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "CineStage X Surround: Integrated multi-channel audio without extra hardware.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "Hi-Orchestra & EzPlay: Synchronizes TV speakers with Hisense soundbars.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "Eco-Smart Solar Remote: Solar-powered remote with USB-C charging and a find my remote buzzer.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        },
+        {
+          "value": "VIDAA OS: Personalized interface for global and local entertainment.",
+          "value_citation": "https://hisenseme.com/products/uled-x-miniled"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense PURE SLIM 610L Cross Door Pure Flat Series",
+      "product_name_citation": "https://hisenseme.com/products/cross-door-610l-bcd-470w-rq7g470sbs3",
+      "technical_specifications": {
+        "model_numbers": [
+          "Black Glass: RQ5G470SBB3",
+          "Khakhi Glass: RQ5G470SBK3",
+          "Inox: RQ5G470SBS3"
+        ],
+        "reference_model": "BCD-470W RQ7G470SBS3",
+        "capacity": "610L",
+        "dimensions": "794mm (W) x 700mm (D) x 1785mm (H)",
+        "my_fresh_choice_temp_range": "-18℃ to +5℃",
+        "control_panel_height": "140cm (accessible design)",
+        "door_balcony_width": "208mm (XXL size for 2L bottles/gallon jugs)",
+        "cooling_system": "Dual-Tech Cooling with separate coolers for fridge and freezer",
+        "interior_material": "Metal rear wall (Metal-Tech Cooling)",
+        "connectivity": "Smart Wi-Fi (Connect Life App)",
+        "technology": "Durable Inverter",
+        "lighting": "Soft LED Lighting",
+        "air_distribution": "Underside Diversion Cooling System"
+      },
+      "key_features": [
+        {
+          "value": "My Fresh Choice: Versatile zone that switches between fridge and freezer modes.",
+          "value_citation": "https://hisenseme.com/products/cross-door-610l-bcd-470w-rq7g470sbs3"
+        },
+        {
+          "value": "Dual-Tech Cooling: Separate cooling zones to maintain ideal humidity and prevent odor mixing.",
+          "value_citation": "https://hisenseme.com/products/cross-door-610l-bcd-470w-rq7g470sbs3"
+        },
+        {
+          "value": "Metal-Tech Cooling: Multiple air vents and metal rear wall for even temperature distribution.",
+          "value_citation": "https://hisenseme.com/products/cross-door-610l-bcd-470w-rq7g470sbs3"
+        },
+        {
+          "value": "Electronic Touch Control: Integrated panel with Eco mode and ergonomic height for accessibility.",
+          "value_citation": "https://hisenseme.com/products/cross-door-610l-bcd-470w-rq7g470sbs3"
+        },
+        {
+          "value": "Smart Connectivity: Remote temperature adjustment via smartphone app.",
+          "value_citation": "https://hisenseme.com/products/cross-door-610l-bcd-470w-rq7g470sbs3"
+        },
+        {
+          "value": "XXL Door Balcony: Extra-wide storage for tall and bulky items.",
+          "value_citation": "https://hisenseme.com/products/cross-door-610l-bcd-470w-rq7g470sbs3"
+        },
+        {
+          "value": "Quick Cooling: Efficient airflow design that reduces required side clearance.",
+          "value_citation": "https://hisenseme.com/products/cross-door-610l-bcd-470w-rq7g470sbs3"
+        },
+        {
+          "value": "Pure Flat Slim Design: Minimalist aesthetic with a slim profile.",
+          "value_citation": "https://hisenseme.com/products/cross-door-610l-bcd-470w-rq7g470sbs3"
+        }
+      ]
+    },
+    {
+      "product_name": "WALL MOUNTED DC INVERTER R410A (AS-18TF4RBTCA00)",
+      "product_name_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-18tf4rbtca00)",
+      "technical_specifications": {
+        "outdoor_dimensions": "860W × 650H × 310D",
+        "indoor_dimensions": "1008W × 325H × 217D",
+        "technology": "3D DC Inverter",
+        "refrigerant": "R410A",
+        "energy_efficiency": "Reduces power consumption by 30%",
+        "connectivity": "WiFi Control (Android and iOS compatible)",
+        "filter_system": "4-in-1 Filter and Hi-Nano ion stream"
+      },
+      "key_features": [
+        {
+          "value": "WiFi Control: Remote operation via mobile devices inside and outside the home.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-18tf4rbtca00)"
+        },
+        {
+          "value": "4-in-1 Filter: Removes dust and odors.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-18tf4rbtca00)"
+        },
+        {
+          "value": "Hi-Nano: Ion stream to kill and remove bacteria and viruses.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-18tf4rbtca00)"
+        },
+        {
+          "value": "High Energy Efficiency: 3D inverter technology and optimized components for lower power consumption.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-18tf4rbtca00)"
+        },
+        {
+          "value": "Easy Cleaning: Interior unit disassembles in less than one minute.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-18tf4rbtca00)"
+        },
+        {
+          "value": "Easy Installation: Connect pipes while unit is hanging on wall.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-18tf4rbtca00)"
+        },
+        {
+          "value": "Easy Maintenance: Access PCB or fan motor without moving evaporator.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-18tf4rbtca00)"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense UHD A4K Smart TV",
+      "product_name_citation": "https://hisenseme.com/products/a4k",
+      "technical_specifications": {
+        "display_sizes": [
+          "32\"",
+          "40\"",
+          "43\""
+        ],
+        "resolution": "FHD (Full High Definition)",
+        "backlight_type": "Direct Full Array",
+        "operating_system": "VIDAA Smart TV",
+        "input_lag": "16ms (Game Mode)",
+        "connectivity": [
+          "HDMI ports",
+          "USB slots",
+          "Dual Band Wi-Fi",
+          "Share to TV (Mirroring/Casting)"
+        ],
+        "audio": [
+          "Dolby Audio",
+          "DTS Virtual:X"
+        ],
+        "noise_reduction": "3D dynamic and 2D static algorithms",
+        "features": [
+          "Voice Remote",
+          "Game Mode Plus"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "FHD Resolution: Sharp visuals and rich color spectrum.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        },
+        {
+          "value": "High Contrast: Deep shadows and bright highlights for balanced luminance.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        },
+        {
+          "value": "Natural Colour Enhancer: Fine-tunes colors for realistic representation.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        },
+        {
+          "value": "Noise Reduction: Erases graininess from classic and modern content.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        },
+        {
+          "value": "AI Sports Mode: Enhances clarity of movement and sound for a stadium-like experience.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        },
+        {
+          "value": "Depth Enhancer: Adjusts focus and clarity across scene layers for three-dimensional feel.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        },
+        {
+          "value": "DTS Virtual:X & Dolby Audio: Immersive surround sound and clear dialogue.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        },
+        {
+          "value": "Game Mode: Optimized input response for low-latency gaming.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        },
+        {
+          "value": "Share to TV: Seamlessly mirror or cast content from mobile devices.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        },
+        {
+          "value": "VIDAA OS: Fast, secure interface for international and local content.",
+          "value_citation": "https://hisenseme.com/products/a4k"
+        }
+      ]
+    },
+    {
+      "product_name": "16 Place Setting Dishwasher (Hisense HS673C90BME)",
+      "product_name_citation": "https://hisenseme.com/products/16-place-setting-dishwasher",
+      "technical_specifications": {
+        "model": "HS673C90BME",
+        "capacity": "16 Place Settings",
+        "dimensions": "600mm (W) x 596mm (D) x 845mm (H)",
+        "color": "Black",
+        "motor_type": "Inverter Technology (Super Silent)",
+        "connectivity": "Wi-Fi Connect (Connect Life App)",
+        "control_interface": "Direct Touch",
+        "wash_temperature": "Up to 75°C (Hygiene Wash)",
+        "interior_lighting": "LED",
+        "drying_system": "Smart Dry (Integrated fan) and Auto Door Open",
+        "spray_system": "Corner Boost (Additional spray arms with rotating nozzles)",
+        "safety_utility": "Power-off Memory"
+      },
+      "key_features": [
+        {
+          "value": "16 Place Settings: Large capacity suitable for bulky pots and pans.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "Adjustable Top Basket: Customizable interior with adjustable panels on cutlery shelf.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "Auto Door Open: Automatically opens at cycle end to improve drying.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "Smart Dry: Integrated fan removes moisture to prevent stains and mold.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "Inverter Technology: Optimizes performance while minimizing noise.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "Hygiene Wash: High-temperature 75°C cycle for sterilizing items.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "Corner Boost: Specialized nozzles reach every corner to remove stubborn food.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "Auto Wash: Sensor technology adjusts water temperature, time, and spray intensity.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "Connect Life Wi-Fi: Remote monitoring and control with real-time notifications.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "20 Min Quick Wash: Rapid wash and rinse cycle.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        },
+        {
+          "value": "Power-off Memory: Automatically resumes cycle from interruption point.",
+          "value_citation": "https://hisenseme.com/products/16-place-setting-dishwasher"
+        }
+      ]
+    },
+    {
+      "product_name": "L9H 4K Trichroma Laser TV",
+      "product_name_citation": "https://hisenseme.com/products/l9h-4k-trichroma",
+      "technical_specifications": {
+        "projection_size": "100-120 inches",
+        "console_dimensions": "610W x 155H x 346D (mm)",
+        "resolution": "4K",
+        "light_source": "Triple colour laser light (RGB Trichroma)",
+        "brightness": "3000 ANSI Lumens",
+        "colour_gamut": "107% BT.2020",
+        "contrast_ratio": "1000:1 (Static)",
+        "throw_type": "Ultra Short Throw",
+        "audio": "40-watt superior front-firing built-in speakers",
+        "audio_technology": "Dolby Atmos",
+        "refresh_rate_motion": "Smooth Motion, MEMC Technology (microsecond-level response time)",
+        "operating_system": "VIDAA U6",
+        "tuner": "Built-in TV tuner",
+        "lifespan": "25,000+ hours (X-Fusion technology)",
+        "connectivity": [
+          "HDMI ARC",
+          "USB port (side-mounted)",
+          "Bluetooth"
+        ],
+        "eye_protection": "TUV certified blue light technology, Integrated proximity sensor (dimming)",
+        "voice_control": "Hands-free voice remote (up to 3 meters)"
+      },
+      "key_features": [
+        {
+          "value": "Trichroma Laser Engine: Parallel RGB triple color light source for improved uniformity.",
+          "value_citation": "https://hisenseme.com/products/l9h-4k-trichroma"
+        },
+        {
+          "value": "Ambient Light Rejection (ALR): Anti-glare screen blocks over 85% of glare.",
+          "value_citation": "https://hisenseme.com/products/l9h-4k-trichroma"
+        },
+        {
+          "value": "HDR & Dolby Vision: For cinematic audio-visual detail.",
+          "value_citation": "https://hisenseme.com/products/l9h-4k-trichroma"
+        },
+        {
+          "value": "Filmmaker Mode: Preserves original creative intent.",
+          "value_citation": "https://hisenseme.com/products/l9h-4k-trichroma"
+        },
+        {
+          "value": "Game Mode: Auto-Low Latency Mode (ALLM) for lag-free gameplay.",
+          "value_citation": "https://hisenseme.com/products/l9h-4k-trichroma"
+        },
+        {
+          "value": "Construction Aesthetics: Mild curved surface and integrated side keys.",
+          "value_citation": "https://hisenseme.com/products/l9h-4k-trichroma"
+        },
+        {
+          "value": "Smart Features: Universal search, One click play remote, Share to TV casting.",
+          "value_citation": "https://hisenseme.com/products/l9h-4k-trichroma"
+        },
+        {
+          "value": "High Luminance Uniformity: Consistent brightness across the entire screen.",
+          "value_citation": "https://hisenseme.com/products/l9h-4k-trichroma"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense E7N PRO QLED TV (144Hz QD Gaming TV)",
+      "product_name_citation": "https://hisenseme.com/products/e7-pro",
+      "technical_specifications": {
+        "display_sizes": [
+          "65\"",
+          "75\"",
+          "85\"",
+          "90\""
+        ],
+        "display_technology": "QLED (Quantum Dot Colour)",
+        "backlight": "Full Array Local Dimming",
+        "refresh_rate": "144Hz Native",
+        "variable_refresh_rate": "144Hz VRR",
+        "motion_technology": [
+          "MEMC",
+          "Ultra Motion",
+          "Low Latency MEMC"
+        ],
+        "hdr_support": [
+          "Total HDR Solution",
+          "Dolby Vision",
+          "Dolby Vision IQ",
+          "HDR10+"
+        ],
+        "audio_system": "2.1 Channel (Integrated Built-In Subwoofer)",
+        "audio_enhancement": [
+          "Dolby Atmos",
+          "AI Sports Mode"
+        ],
+        "operating_system": "VIDAA",
+        "control": "Hisense Voice Remote (Voice Control)",
+        "gaming_dashboard": "Game Bar (FPS, HDR, VRR metrics)",
+        "picture_modes": [
+          "Filmmaker Mode",
+          "AI Sports Mode",
+          "Game Mode PRO"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "144Hz Game Mode PRO: High refresh rate, Game Bar, and low latency MEMC for smooth gameplay.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "Quantum Dot Colour: Over one billion shades of vivid and true-to-life colors.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "Full Array Local Dimming: Increases contrast with deeper blacks and brighter highlights.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "Total HDR Solution: Decodes all major HDR formats for perfect detail.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "Dolby Vision IQ: Dynamically adapts picture settings based on ambient light.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "Built-In Subwoofer: Deep bass and nuanced audio for cinema-quality sound.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "Dolby Atmos: Immersive, moving audio that flows around the listener.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "AI Sports Mode: Automatically detects sports content to enhance visuals and audio.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "Game Bar: Real-time gaming metrics and setting adjustments dashboard.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "Filmmaker Mode: Original settings as intended by directors.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        },
+        {
+          "value": "Voice Control: Navigation via single button press on remote.",
+          "value_citation": "https://hisenseme.com/products/e7-pro"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Side-by-Side Refrigerator 670L",
+      "product_name_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod",
+      "technical_specifications": {
+        "model_numbers": [
+          "RS670N4ASU1 (Inox)",
+          "RS670N4AWU1 (White)"
+        ],
+        "capacity": "670L",
+        "dimensions": "910mm (W) x 643mm (D) x 1786mm (H)",
+        "colors_available": [
+          "Inox",
+          "White"
+        ],
+        "cooling_system": [
+          "Total No Frost",
+          "Multi Air Flow"
+        ],
+        "compressor_type": "Durable Inverter",
+        "control_type": "Electronic Touch Control",
+        "lighting": "Soft LED Lighting",
+        "filter": "Deodorizing Filter (Activated Carbon)"
+      },
+      "key_features": [
+        {
+          "value": "Durable Inverter: Adjusts power for energy efficiency, reduced noise, and stable performance.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        },
+        {
+          "value": "Total No Frost: Prevents ice build-up and eliminates manual defrosting.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        },
+        {
+          "value": "Multi Air Flow: Distributes cold air evenly to maintain optimal temperature.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        },
+        {
+          "value": "Super Cool: Rapidly lowers refrigerator temperature for quick cooling.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        },
+        {
+          "value": "Super Freeze: Quickly freezes food to lock in vitamins and nutritional content.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        },
+        {
+          "value": "Soft LED Lighting: Energy-efficient, cool-temperature lighting.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        },
+        {
+          "value": "XXL Door Balcony: Large door pockets for tall items and gallon-sized beverages.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        },
+        {
+          "value": "Double Storage Drawers: Full-width, translucent drawers for organized storage.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        },
+        {
+          "value": "Electronic Touch Control: High-accuracy temperature settings.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        },
+        {
+          "value": "Deodorizing Filter: Uses activated carbon to eliminate odors.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4awu1wod"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 650L Refrigerator RB5P504NM13",
+      "product_name_citation": "https://hisenseme.com/products/650l-refrigerator-rb5p504nm13",
+      "technical_specifications": {
+        "model": "RB5P504NM13",
+        "type": "Bottom Mount",
+        "total_capacity": "650L",
+        "dimensions": "794mm (W) x 698mm (D) x 1725mm (H)",
+        "color": "Inox",
+        "cooling_system": "Multi Air Flow System",
+        "motor_technology": "Durable Inverter"
+      },
+      "key_features": [
+        {
+          "value": "Super Cool Function: Rapid cooling for fresh food and groceries.",
+          "value_citation": "https://hisenseme.com/products/650l-refrigerator-rb5p504nm13"
+        },
+        {
+          "value": "Super Freeze Function: Rapidly lowers temperature to freeze items quickly.",
+          "value_citation": "https://hisenseme.com/products/650l-refrigerator-rb5p504nm13"
+        },
+        {
+          "value": "Big Door Capacity (XXL Door Balcony): Stores bulky items and frees up shelf space.",
+          "value_citation": "https://hisenseme.com/products/650l-refrigerator-rb5p504nm13"
+        },
+        {
+          "value": "Multi Air Flow: Even distribution of cold air for consistent temperature.",
+          "value_citation": "https://hisenseme.com/products/650l-refrigerator-rb5p504nm13"
+        },
+        {
+          "value": "Durable Inverter: Adjusts power to save energy, reduce noise, and provide stable performance.",
+          "value_citation": "https://hisenseme.com/products/650l-refrigerator-rb5p504nm13"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense QLED Q7 (Q7N) QD 4K TV",
+      "product_name_citation": "https://hisenseme.com/products/q7n",
+      "technical_specifications": {
+        "display_sizes": [
+          "100\"",
+          "85\"",
+          "75\"",
+          "65\"",
+          "55\""
+        ],
+        "display_type": "QLED (Quantum Dot)",
+        "resolution": "4K Ultra HD",
+        "backlight": "Direct Full Array / Full Array Local Dimming",
+        "refresh_rate": "60Hz panel (native), 240 High Refresh Rate",
+        "hdr_formats": [
+          "Dolby Vision",
+          "HDR10+ Decoding"
+        ],
+        "image_processing": [
+          "4K AI Upscaler",
+          "Depth Enhancer",
+          "Pixel Tuning",
+          "AI Picture",
+          "MEMC"
+        ],
+        "audio": "Dolby Atmos",
+        "sensors": "Adaptive Light Sensor",
+        "connectivity": [
+          "Bluetooth (Headphone support)",
+          "Apple AirPlay",
+          "Share to TV"
+        ],
+        "smart_ecosystems": [
+          "Google Home",
+          "Apple Home (HomeKit)"
+        ],
+        "gaming_features": [
+          "Game Mode PLUS",
+          "Integrated Game Bar"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Quantum Dot Colour: Over one billion shades of vivid, true-to-life color.",
+          "value_citation": "https://hisenseme.com/products/q7n"
+        },
+        {
+          "value": "Direct Full Array: Meticulous edge-to-edge lighting for deep blacks and rich colors.",
+          "value_citation": "https://hisenseme.com/products/q7n"
+        },
+        {
+          "value": "Pixel Tuning: Dynamic noise reduction and adaptive brightness at pixel level.",
+          "value_citation": "https://hisenseme.com/products/q7n"
+        },
+        {
+          "value": "AI Sports Mode: Enhanced visuals and audio for sports content.",
+          "value_citation": "https://hisenseme.com/products/q7n"
+        },
+        {
+          "value": "Filmmaker Mode: Original settings for authentic cinematic experience.",
+          "value_citation": "https://hisenseme.com/products/q7n"
+        },
+        {
+          "value": "Depth Enhancer: Layered image processing for increased realism.",
+          "value_citation": "https://hisenseme.com/products/q7n"
+        },
+        {
+          "value": "Voice Command: Hands-free control and navigation.",
+          "value_citation": "https://hisenseme.com/products/q7n"
+        },
+        {
+          "value": "Smart OS: Unified platform for international and local streaming content.",
+          "value_citation": "https://hisenseme.com/products/q7n"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 5S Series Washer Dryer Combo",
+      "product_name_citation": "https://hisenseme.com/products/5s-washer-dryer-combo",
+      "technical_specifications": {
+        "models_capacities": [
+          "WD5S1245BW: 12kg Wash / 8kg Dry (Black)",
+          "WD5S1045BW: 10.5kg Wash / 6kg Dry (White)"
+        ],
+        "dimensions": "595mm (W) x 610mm (H) x 845mm (D)",
+        "motor_type": "Durable Inverter Motor",
+        "smart_connectivity": "Connect Life app integration",
+        "dispensing_system": "Auto Dosing (stores detergent for up to 24 loads)",
+        "steam_system": "Pure Steam technology",
+        "maintenance": "Lint Clean (automatic water rinse)"
+      },
+      "key_features": [
+        {
+          "value": "Connect Life: Remote monitoring and control via automation app.",
+          "value_citation": "https://hisenseme.com/products/5s-washer-dryer-combo"
+        },
+        {
+          "value": "Auto Dosing: Automatically measures and dispenses detergent/softener based on laundry weight.",
+          "value_citation": "https://hisenseme.com/products/5s-washer-dryer-combo"
+        },
+        {
+          "value": "Auto Wash: Automatically recognizes laundry type and adjusts washing cycles.",
+          "value_citation": "https://hisenseme.com/products/5s-washer-dryer-combo"
+        },
+        {
+          "value": "Additional Cycles: Unconventional cycle suggestions for specific needs.",
+          "value_citation": "https://hisenseme.com/products/5s-washer-dryer-combo"
+        },
+        {
+          "value": "Pure Steam: Disinfects laundry, removes stains, and reduces wrinkles.",
+          "value_citation": "https://hisenseme.com/products/5s-washer-dryer-combo"
+        },
+        {
+          "value": "Durable Inverter: Reduces energy consumption and mechanical wear.",
+          "value_citation": "https://hisenseme.com/products/5s-washer-dryer-combo"
+        },
+        {
+          "value": "Lint Clean: Water wash away lint at end of rinse cycle.",
+          "value_citation": "https://hisenseme.com/products/5s-washer-dryer-combo"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Top-Mount RT Series 649L (RT649N4ASU1)",
+      "product_name_citation": "https://hisenseme.com/products/649l",
+      "technical_specifications": {
+        "type": "Top Mount Refrigerator",
+        "total_capacity": "649L",
+        "dimensions": "794mm (W) x 719mm (D) x 1720mm (H)",
+        "color": "Inox",
+        "model_number": "RT649N4ASU1",
+        "compressor_technology": "Durable Inverter",
+        "cooling_system": [
+          "Multi Air Flow",
+          "Total No Frost"
+        ],
+        "defrosting": "Automatic (No Frost)"
+      },
+      "key_features": [
+        {
+          "value": "Durable Inverter: Adjusts power to reduce energy consumption and ensure quieter operation.",
+          "value_citation": "https://hisenseme.com/products/649l"
+        },
+        {
+          "value": "Multi Air Flow System: Distributes cold air evenly to maintain optimal temperatures.",
+          "value_citation": "https://hisenseme.com/products/649l"
+        },
+        {
+          "value": "Total No Frost Technology: Prevents ice crystal formation, eliminating manual defrosting.",
+          "value_citation": "https://hisenseme.com/products/649l"
+        },
+        {
+          "value": "Super Freeze: Rapidly lowers freezer temperature to lock in vitamins.",
+          "value_citation": "https://hisenseme.com/products/649l"
+        },
+        {
+          "value": "Super Cool: Operates at highest cooling capacity for rapid temperature reduction.",
+          "value_citation": "https://hisenseme.com/products/649l"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 759L Cross Door Pure Flat Refrigerator (PureFlat Smart Series) RQ759N4IBU1",
+      "product_name_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1",
+      "technical_specifications": {
+        "model_number": "RQ759N4IBU1",
+        "capacity": "759L",
+        "dimensions": "912mm (W) x 1785mm (H) x 725mm (D)",
+        "color": "Black",
+        "display": "Integrated large touch screen (Smart Screen)",
+        "connectivity": [
+          "WiFi",
+          "ConnectLife app",
+          "Smartphone synchronization",
+          "Screen mirroring"
+        ],
+        "voice_control": [
+          "Amazon Alexa",
+          "Google Assistant"
+        ],
+        "cooling_system": "Triple Cooling technology with 3 independent evaporators, Triple Zone control",
+        "compressor": "Inverter technology",
+        "temperature_range": "My Fresh Choice compartment (-18°C to +5°C)",
+        "dispenser": "Ice and Water dispenser",
+        "hygiene_features": "Antibacterial Guard (antibacterial gasket)"
+      },
+      "key_features": [
+        {
+          "value": "ConnectLife: Remote management and monitoring via app.",
+          "value_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1"
+        },
+        {
+          "value": "Food Inventory: Manual labeling of items with expiration date notifications.",
+          "value_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1"
+        },
+        {
+          "value": "Shopping List: Digital list creation on touch screen with smartphone syncing.",
+          "value_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1"
+        },
+        {
+          "value": "Recipes: Access to 151 built-in recipes on the large screen.",
+          "value_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1"
+        },
+        {
+          "value": "Photo Sharing: Transfer and display photos from smartphone to refrigerator screen.",
+          "value_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1"
+        },
+        {
+          "value": "Smart Boards: Digital message board for reminders, notes, and drawings.",
+          "value_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1"
+        },
+        {
+          "value": "Mirroring: Mirror smartphone content to the refrigerator screen.",
+          "value_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1"
+        },
+        {
+          "value": "My Fresh Choice: Flexible compartment converts from freezer to fridge.",
+          "value_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1"
+        },
+        {
+          "value": "PureFlat Design: Modern, minimalist aesthetic with flat door surfaces.",
+          "value_citation": "https://hisenseme.com/products/759l-cross-door-pure-flat-refrigerator-rq759n41bu1"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 5S Series Dryer",
+      "product_name_citation": "https://hisenseme.com/products/5s-series-dryer",
+      "technical_specifications": {
+        "models": [
+          "DH5S102BW (Black)",
+          "DH5S902BW (White)"
+        ],
+        "capacity": "10 kg and 9 kg options",
+        "dimensions": "595mm (W) x 660mm (H) x 845mm (D)",
+        "available_colors": [
+          "Black",
+          "White"
+        ],
+        "connectivity": [
+          "Wi-Fi (Connect Life App)",
+          "Smart Link (Wash-to-Dry synchronization)"
+        ],
+        "sensors": "High-precision residual water and temperature sensors"
+      },
+      "key_features": [
+        {
+          "value": "Connect Life: Remote monitoring, connecting, and controlling the appliance.",
+          "value_citation": "https://hisenseme.com/products/5s-series-dryer"
+        },
+        {
+          "value": "Ion Refresh: 10-minute ion treatment to remove odors and freshen clothes.",
+          "value_citation": "https://hisenseme.com/products/5s-series-dryer"
+        },
+        {
+          "value": "Anti Crease: Drum tumbles intermittently every 5 minutes after heating to prevent wrinkles.",
+          "value_citation": "https://hisenseme.com/products/5s-series-dryer"
+        },
+        {
+          "value": "Auto Dry: Built-in sensors automatically adjust drying time based on moisture and temperature.",
+          "value_citation": "https://hisenseme.com/products/5s-series-dryer"
+        },
+        {
+          "value": "Reversible Door: Interchangeable door hinges for left or right side opening.",
+          "value_citation": "https://hisenseme.com/products/5s-series-dryer"
+        },
+        {
+          "value": "Smart Link: Automatically receives washing program data to select optimal drying program.",
+          "value_citation": "https://hisenseme.com/products/5s-series-dryer"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense U6N Mini-LED ULED TV",
+      "product_name_citation": "https://hisenseme.com/products/u6n",
+      "technical_specifications": {
+        "display_type": "ULED Mini-LED",
+        "screen_sizes": [
+          "55\"",
+          "65\"",
+          "75\"",
+          "85\""
+        ],
+        "resolution": "4K",
+        "brightness": "600 nits",
+        "processor": "Hi-View Engine (Scene-by-scene intelligent processing)",
+        "hdr_formats": [
+          "Dolby Vision",
+          "HDR10",
+          "HDR10+",
+          "HLG (Total HDR Solution)"
+        ],
+        "audio": [
+          "Dolby Atmos",
+          "DTS Virtual:X"
+        ],
+        "connectivity": [
+          "WiFi 6E",
+          "HDMI 2.1",
+          "Bluetooth",
+          "AirPlay",
+          "Share to TV",
+          "WISA Ready"
+        ],
+        "gaming_specs": [
+          "Game Mode PLUS",
+          "Game Bar",
+          "HDMI 2.1 low lag"
+        ],
+        "dimming_zones": "2,000+ zones (via Dynamic Tone Mapping)",
+        "control": "Voice Remote / Voice Control"
+      },
+      "key_features": [
+        {
+          "value": "Mini-LED Technology: High contrast with vivid brightness and deep shadows.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        },
+        {
+          "value": "Quantum Dot Colour: Over one billion shades of vivid, intensified color.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        },
+        {
+          "value": "Hi-View Engine: Real-time frame-level analysis for upscaling and color enhancement.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        },
+        {
+          "value": "Total HDR Solution: Comprehensive compatibility with all major HDR formats.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        },
+        {
+          "value": "Filmmaker Mode: Adjusts video to original settings for authentic viewing.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        },
+        {
+          "value": "Dynamic Tone Mapping: Real-time analysis of 2,000+ dimming zones.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        },
+        {
+          "value": "Game Bar: On-screen dashboard for real-time gaming metrics.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        },
+        {
+          "value": "AI Sports Mode: Enhanced clarity and immersive sound for sports.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        },
+        {
+          "value": "EZplay: Seamless interface for controlling Hisense soundbars.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        },
+        {
+          "value": "Voice Control: Effortless command via voice button.",
+          "value_citation": "https://hisenseme.com/products/u6n"
+        }
+      ]
+    },
+    {
+      "product_name": "PX3-PRO Laser Cinema",
+      "product_name_citation": "https://hisenseme.com/products/px3-pro-laser-cinema",
+      "technical_specifications": {
+        "display_size": "80 to 150 inches (Adjustable via distance)",
+        "display_technology": "Ultra Short Throw (UST), TriChroma Laser, Digital Laser Engine",
+        "resolution": "4K",
+        "refresh_rate": "Up to HSR 240",
+        "color_gamut": "110% BT.2020",
+        "color_accuracy": "Ultra-high color accuracy",
+        "native_contrast_ratio": "3000:1",
+        "light_source_life": "25,000+ hours",
+        "console_dimensions": "520W x 324D x 160H (mm)",
+        "audio": [
+          "Front Firing Speakers",
+          "Dolby Atmos",
+          "DTS-powered audio"
+        ],
+        "image_processor": "Hisense Pro Laser Engine, 4K AI Upscaler",
+        "operating_system": "State-of-the-art OS with global and local content",
+        "connectivity": "Multiple modern ports for cable boxes, game consoles, and speaker systems"
+      },
+      "key_features": [
+        {
+          "value": "Digital Laser Engine: High-performance laser light source.",
+          "value_citation": "https://hisenseme.com/products/px3-pro-laser-cinema"
+        },
+        {
+          "value": "4K AI Upscaler: Enhances lower resolution content to 4K quality.",
+          "value_citation": "https://hisenseme.com/products/px3-pro-laser-cinema"
+        },
+        {
+          "value": "IMAX Enhanced: Certified by IMAX and Hollywood specialists for cinema-quality.",
+          "value_citation": "https://hisenseme.com/products/px3-pro-laser-cinema"
+        },
+        {
+          "value": "Dolby Vision & Dolby Atmos: Integrated high-dynamic range and spatial audio.",
+          "value_citation": "https://hisenseme.com/products/px3-pro-laser-cinema"
+        },
+        {
+          "value": "Filmmaker Mode: Reproduces movies with accurate color as intended by creators.",
+          "value_citation": "https://hisenseme.com/products/px3-pro-laser-cinema"
+        },
+        {
+          "value": "Game Mode: Auto-Low Latency Mode (ALLM) for lag-free gameplay.",
+          "value_citation": "https://hisenseme.com/products/px3-pro-laser-cinema"
+        },
+        {
+          "value": "HSR 240: High-speed refresh rate for fluid motion.",
+          "value_citation": "https://hisenseme.com/products/px3-pro-laser-cinema"
+        },
+        {
+          "value": "Ultra Short Throw: Creates large images (up to 150\") in compact spaces.",
+          "value_citation": "https://hisenseme.com/products/px3-pro-laser-cinema"
+        },
+        {
+          "value": "TriChroma Technology: Precise light sources for realistic color reproduction.",
+          "value_citation": "https://hisenseme.com/products/px3-pro-laser-cinema"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense U6N Pro ULED MiniLED",
+      "product_name_citation": "https://hisenseme.com/products/u6npro",
+      "technical_specifications": {
+        "display_sizes": [
+          "55\"",
+          "65\"",
+          "75\"",
+          "85\""
+        ],
+        "resolution": "4K",
+        "display_type": "ULED Mini-LED",
+        "brightness": "600 nits",
+        "processor": "Hi-View Engine",
+        "local_dimming": "Over 2,000 dimming zones",
+        "hdr_support": [
+          "Total HDR Solution",
+          "Dolby Vision",
+          "HDR10",
+          "HDR10+",
+          "HLG"
+        ],
+        "audio": [
+          "Dolby Atmos",
+          "DTS Virtual:X",
+          "EZplay soundbar integration"
+        ],
+        "connectivity": [
+          "WiFi 6E",
+          "HDMI 2.1",
+          "Bluetooth",
+          "AirPlay",
+          "Share to TV",
+          "WISA Ready"
+        ],
+        "gaming": [
+          "Game Mode PLUS",
+          "Game Bar (Real-time FPS, HDR, VRR metrics)"
+        ],
+        "operating_features": [
+          "Voice Remote",
+          "Voice Control"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Mini-LED Technology: High contrast with vivid brightness and shadow detail.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "Quantum Dot Colour: Over one billion shades of vivid, authentic color.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "Hi-View Engine: Scene-by-scene intelligent processing and 4K upscaling.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "Total HDR Solution: Compatibility with all major HDR formats.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "Filmmaker Mode: Original setting adjustment for authentic movie viewing.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "Dynamic Tone Mapping: Real-time analysis of over 2,000 dimming zones.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "AI Sports Mode: Motion and sound optimization for stadium-like clarity.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "Game Mode PLUS: Optimized gameplay with low lag.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "Game Bar: Dashboard for real-time gaming metrics and screen adjustments.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "EZplay: Seamless interface for controlling Hisense soundbars via TV remote.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        },
+        {
+          "value": "Voice Control: Hands-free or button-pressed voice command functionality.",
+          "value_citation": "https://hisenseme.com/products/u6npro"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Side-by-Side Refrigerator 670L (RS670N4WSU1)",
+      "product_name_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt",
+      "technical_specifications": {
+        "type": "Side-by-Side Refrigerator",
+        "total_capacity": "670L",
+        "dimensions": "910mm (W) x 643mm (D) x 1786mm (H)",
+        "color": "Inox",
+        "cooling_technology": [
+          "Total No Frost",
+          "Multi Air Flow"
+        ],
+        "motor_type": "Durable Inverter",
+        "control_type": "Electronic Touch Control",
+        "lighting": "Soft LED Lighting",
+        "filter_type": "Deodorizing Filter (Activated Carbon)",
+        "water_dispenser": "Integrated",
+        "storage": [
+          "XXL Door Balcony",
+          "Double Storage Drawers (Full-width, translucent)"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Water Dispenser: Stylish design with brushed matte surface and improved structure.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        },
+        {
+          "value": "Total No Frost: Circulates cold air to prevent ice crystal formation.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        },
+        {
+          "value": "Multi Air Flow: Distributes cold air evenly to maintain optimal temperature.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        },
+        {
+          "value": "Super Cool: Operates at highest cooling capacity to rapidly lower food temperature.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        },
+        {
+          "value": "Super Freeze: Rapidly lowers freezer temperature to lock in vitamins and nutrients.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        },
+        {
+          "value": "Durable Inverter: Adjusts power based on demand to reduce energy consumption.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        },
+        {
+          "value": "Soft LED Lighting: Provides cool, energy-efficient illumination.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        },
+        {
+          "value": "XXL Door Balcony: Extra-deep door pockets for gallon bottles.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        },
+        {
+          "value": "Electronic Touch Control: User-friendly interface for precise temperature settings.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        },
+        {
+          "value": "Deodorizing Filter: Activated carbon to eliminate odors.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-670l-rs670n4wsu1wt"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense UHD 4K TV A7K",
+      "product_name_citation": "https://hisenseme.com/products/a7k",
+      "technical_specifications": {
+        "display_sizes": [
+          "85\"",
+          "75\""
+        ],
+        "resolution": "4K UHD",
+        "refresh_rate": "60Hz panel",
+        "backlight_type": "Direct Full Array",
+        "hdr_support": "HDR10+ Decoding",
+        "gaming_technology": [
+          "Game Mode PLUS",
+          "Variable Refresh Rate (VRR)",
+          "Auto Low Latency Mode (ALLM)"
+        ],
+        "audio": [
+          "Dolby Atmos",
+          "AI Sports Mode immersive sound"
+        ],
+        "operating_system": "VIDAA SMART OS",
+        "design": [
+          "Bezel-less",
+          "Ultra Slim"
+        ],
+        "connectivity": [
+          "Screen Sharing",
+          "Content Sharing (mobile to TV)"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Wide Colour Gamut: Billion+ shades of vivid color and accurate gradations.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        },
+        {
+          "value": "Precision Colour: Enhanced color optics.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        },
+        {
+          "value": "Direct Full Array: Evenly distributed lights for steady blacks.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        },
+        {
+          "value": "AI Adaptive Depth: Enhanced sense of distance and detail.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        },
+        {
+          "value": "Pixel Tuning: Dynamic image refinement for dark and bright layers.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        },
+        {
+          "value": "AI Real-Time Scenario-Specific Optimization: Technical expert optimization for content.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        },
+        {
+          "value": "Auto Adaptation: Automatically adjusts brightness based on room lighting.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        },
+        {
+          "value": "AI Sports Mode: Optimized picture and audio for sports.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        },
+        {
+          "value": "VIDAA SMART OS: Fast and easy-to-use smart interface.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        },
+        {
+          "value": "Screen and Content Sharing: Mirroring and casting from mobile devices.",
+          "value_citation": "https://hisenseme.com/products/a7k"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 7S Series Dryer DH7S107BB",
+      "product_name_citation": "https://hisenseme.com/products/7s-series-dryer",
+      "technical_specifications": {
+        "model_number": "DH7S107BB",
+        "capacity": "10 kg",
+        "color": "Black",
+        "dimensions": "595mm (W) x 845mm (H) x 660mm (D)",
+        "technology_type": "Heat Pump",
+        "sensor_system": "Humidity and temperature detection"
+      },
+      "key_features": [
+        {
+          "value": "AI Super Dry: Automatically selects program/temperature based on sensors; stops when dry.",
+          "value_citation": "https://hisenseme.com/products/7s-series-dryer"
+        },
+        {
+          "value": "Smart Link: Syncs with washing machines to choose matching drying programs.",
+          "value_citation": "https://hisenseme.com/products/7s-series-dryer"
+        },
+        {
+          "value": "Ion Refresh: 10-minute ion treatment to remove odors.",
+          "value_citation": "https://hisenseme.com/products/7s-series-dryer"
+        },
+        {
+          "value": "Allergy Care: Uses high-temperature hot air to remove 99.99% of bacteria.",
+          "value_citation": "https://hisenseme.com/products/7s-series-dryer"
+        },
+        {
+          "value": "Flex Rack: Specialized rack for drying shoes, plush toys, and delicate cashmere fabrics.",
+          "value_citation": "https://hisenseme.com/products/7s-series-dryer"
+        },
+        {
+          "value": "Pure Steam: Advanced steam system for stain removal, disinfection, and wrinkle reduction.",
+          "value_citation": "https://hisenseme.com/products/7s-series-dryer"
+        },
+        {
+          "value": "Energy Efficient: Designed for lower electricity consumption.",
+          "value_citation": "https://hisenseme.com/products/7s-series-dryer"
+        },
+        {
+          "value": "Gentle Dry: Uses low temperatures to prevent shrinkage of sensitive items.",
+          "value_citation": "https://hisenseme.com/products/7s-series-dryer"
+        },
+        {
+          "value": "Smart Assist: Select fabric type, color, and soil level for optimal settings.",
+          "value_citation": "https://hisenseme.com/products/7s-series-dryer"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Wall Mounted Piston AC R410A (AS-18CT4SKTCA00)",
+      "product_name_citation": "https://hisenseme.com/products/piston,-r410a-as-18ct4sktca00",
+      "technical_specifications": {
+        "refrigerant": "R410A",
+        "indoor_dimensions": "998W × 325H × 225D",
+        "outdoor_dimensions": "900W × 750H × 340D"
+      },
+      "key_features": [
+        {
+          "value": "4-in-1 Filter: Removes dust and odor while refreshing indoor air.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-18ct4sktca00"
+        },
+        {
+          "value": "Hi-Nano: Releases ion stream to kill and remove bacteria and viruses.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-18ct4sktca00"
+        },
+        {
+          "value": "Easy Cleaning: Interior unit disassembles in less than one minute.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-18ct4sktca00"
+        },
+        {
+          "value": "Easy Installation: Connect pipes while AC is hanging on wall.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-18ct4sktca00"
+        },
+        {
+          "value": "Easy Maintenance: Check PCB or fan motor without moving evaporator.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-18ct4sktca00"
+        },
+        {
+          "value": "Modern Design: Focused on attention to detail.",
+          "value_citation": "https://hisenseme.com/products/piston,-r410a-as-18ct4sktca00"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Top-Mount RT Series 729L with Dispenser RT729N4WSU1",
+      "product_name_citation": "https://hisenseme.com/products/729l-with-dispenser",
+      "technical_specifications": {
+        "model_number": "RT729N4WSU1",
+        "capacity": "729L",
+        "dimensions": "794mm (W) x 726mm (D) x 1852mm (H)",
+        "counter_depth": "600mm design",
+        "color": "Inox",
+        "cooling_technology": [
+          "Total No Frost",
+          "Multi Air Flow"
+        ],
+        "motor_technology": "Durable Inverter",
+        "control_type": "Electronic Touch Control",
+        "lighting": "Soft LED Lighting",
+        "ice_maker": "New Twist Ice Maker (manual)",
+        "dispenser": "Integrated water dispenser with internal tank"
+      },
+      "key_features": [
+        {
+          "value": "Sleek Water Dispenser: Integrated into flat door; requires manual filling.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Durable Inverter: Adjusts power to reduce energy consumption and noise.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Total No Frost: Circulates cold air to prevent ice buildup.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Big Capacity: Ample storage with wide-opening doors.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Large Crisper Plus: Deeper drawer for large quantities of fresh groceries.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Premium Design: High-quality inox panel and premium handles.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Counter Depth: 600mm design aligns with kitchen cabinetry.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Fresh Zone: Dedicated upper fridge zone optimized for meat and fish.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "New Twist Ice Maker: Single-knob operation for quick ice access.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Multi Air Flow: Evenly distributes cold air.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Super Freeze: Rapidly lowers freezer temperature.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        },
+        {
+          "value": "Super Cool: Quick cooling function for refrigerator compartment.",
+          "value_citation": "https://hisenseme.com/products/729l-with-dispenser"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Top Mount 488L Refrigerator RT488N4ASU1",
+      "product_name_citation": "https://hisenseme.com/products/488l-refrigerator-rt488n4asu",
+      "technical_specifications": {
+        "model_number": "RT488N4ASU1",
+        "type": "Top Mount Refrigerator",
+        "capacity": "488L",
+        "dimensions": "700mm (W) x 635mm (D) x 1720mm (H)",
+        "available_color": "Inox"
+      },
+      "key_features": [
+        {
+          "value": "Total No Frost: Circulates cold air to prevent ice crystal formation.",
+          "value_citation": "https://hisenseme.com/products/488l-refrigerator-rt488n4asu"
+        },
+        {
+          "value": "Deodorizing Filter: Activated Carbon to eliminate odors and preserve food flavor.",
+          "value_citation": "https://hisenseme.com/products/488l-refrigerator-rt488n4asu"
+        },
+        {
+          "value": "Multi Air Flow System: Ensures even distribution of cold air.",
+          "value_citation": "https://hisenseme.com/products/488l-refrigerator-rt488n4asu"
+        },
+        {
+          "value": "Soft LED Lighting: Clear visibility using cool, environmentally friendly light.",
+          "value_citation": "https://hisenseme.com/products/488l-refrigerator-rt488n4asu"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Split AC Fresh Master",
+      "product_name_citation": "https://hisenseme.com/products/fresh-master",
+      "technical_specifications": {
+        "dimensions": "978W x 313H x 217D (mm)",
+        "heating_range": "Low temperature heating down to -20℃",
+        "control_technology": "Hisense Smart Eyes and TMS control technology",
+        "design": "Double transverse wind board",
+        "cleaning_technology": "Hydrophilic painting film"
+      },
+      "key_features": [
+        {
+          "value": "Fresh Air: Introduces outdoor air through layered purification system.",
+          "value_citation": "https://hisenseme.com/products/fresh-master"
+        },
+        {
+          "value": "AI Smart: Intelligently controls temperature, humidity, wind direction, and air volume.",
+          "value_citation": "https://hisenseme.com/products/fresh-master"
+        },
+        {
+          "value": "Air Quality Display: Detects CO2 concentration with color-coded indicators.",
+          "value_citation": "https://hisenseme.com/products/fresh-master"
+        },
+        {
+          "value": "Self-clean: Uses frosting to remove dust, microorganisms, and oil.",
+          "value_citation": "https://hisenseme.com/products/fresh-master"
+        },
+        {
+          "value": "Ceiling & Ground Airflow: Cool air from ceiling, warm air from floor.",
+          "value_citation": "https://hisenseme.com/products/fresh-master"
+        },
+        {
+          "value": "Advanced Heating: Preheating technology and powerful heat exchange system.",
+          "value_citation": "https://hisenseme.com/products/fresh-master"
+        },
+        {
+          "value": "Anti Mildew Running: Indoor fan runs after unit off to prevent mildew.",
+          "value_citation": "https://hisenseme.com/products/fresh-master"
+        },
+        {
+          "value": "Wi-Fi Control: Remote operation via mobile phone.",
+          "value_citation": "https://hisenseme.com/products/fresh-master"
+        }
+      ]
+    },
+    {
+      "product_name": "432L Cross Door Refrigerator RQ561N4AB1 (Pure Slim)",
+      "product_name_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1",
+      "technical_specifications": {
+        "capacity": "432L",
+        "dimensions": "794W x 700D x 1810H (mm)",
+        "color": "Black",
+        "width": "790mm",
+        "cooling_system": [
+          "Dual-Tech Cooling",
+          "Metal Cooling",
+          "Multi-Air Flow"
+        ],
+        "lighting": "Soft LED Lighting",
+        "compressor": "Durable Inverter Technology",
+        "design": [
+          "Cross Door",
+          "Counter Depth",
+          "Flat Door"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Premium Flat Door Design: Modern appearance with recessed handles.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        },
+        {
+          "value": "Slim & Counter Depth Design: Large storage in minimum space.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        },
+        {
+          "value": "Metal Cooling: Rear wall metal for even cool air distribution.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        },
+        {
+          "value": "Multi-Air Flow: Multiple air vents distribute cool air to every corner.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        },
+        {
+          "value": "Dual-Tech Cooling: Separate humidity levels for compartments.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        },
+        {
+          "value": "My Fresh Choice: Adjustable temperature settings for specific drawer.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        },
+        {
+          "value": "Soft LED Lighting: Wide, bright, energy-efficient lighting.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        },
+        {
+          "value": "Extra Space Drawers: For bulky items with transparent design.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        },
+        {
+          "value": "XXL Door Balcony: Deep door pockets for tall items.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        },
+        {
+          "value": "Durable Inverter: Monitors and adjusts conditions to save energy.",
+          "value_citation": "https://hisenseme.com/products/432l-cross-door-refrigerator-rq561n4ab1"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense SIDE-BY-SIDE 869L RS869N4ASU (PureFlat INFINITE Series)",
+      "product_name_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod",
+      "technical_specifications": {
+        "model_number": "RS869N4ASU (BCD-668W RS869N4ASU)",
+        "total_capacity": "869L",
+        "dimensions": "910mm (W) x 717mm (D) x 1795mm (H)",
+        "color": "Inox",
+        "cooling_system": [
+          "Multi-Air Flow System",
+          "Inverter Technology"
+        ],
+        "control_type": "Electronic LED Touch Control",
+        "connectivity": "Smart WiFi (App-controlled)",
+        "lighting": "Soft LED Lighting",
+        "internal_zones": "Dual Temperature Control Zone"
+      },
+      "key_features": [
+        {
+          "value": "Smart Connectivity: Adjust temperature settings remotely via phone app.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod"
+        },
+        {
+          "value": "Electronic Touch Control: Intuitive LED interface for precise adjustments.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod"
+        },
+        {
+          "value": "Dual Temp Control Zone: Independent temperature and humidity control.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod"
+        },
+        {
+          "value": "Multi-Air Flow: Even distribution of cold air throughout unit.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod"
+        },
+        {
+          "value": "Extra Space Drawers: Transparent, high-capacity drawers for bulky items.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod"
+        },
+        {
+          "value": "XXL Door Balcony: Extra-large door pockets for tall items.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod"
+        },
+        {
+          "value": "Soft LED Lighting: Energy-efficient, brighter, eye-friendly illumination.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod"
+        },
+        {
+          "value": "Durable Inverter Technology: Continuous monitoring for energy efficiency.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod"
+        },
+        {
+          "value": "PureFlat Design: Part of Infinite Series with flat-door aesthetic.",
+          "value_citation": "https://hisenseme.com/products/side-by-side-869l-bcd-668w-rs869n4asu-wod"
+        }
+      ]
+    },
+    {
+      "product_name": "U6K Pro ULED MiniLED",
+      "product_name_citation": "https://hisenseme.com/products/u6k-pro",
+      "technical_specifications": {
+        "display_sizes": [
+          "55\"",
+          "65\""
+        ],
+        "display_technology": [
+          "ULED",
+          "MiniLED",
+          "Quantum Dot Colour"
+        ],
+        "processor": "HI-View Engine (Neural network, 4K upscaling, real-time frame-level analysis)",
+        "hdr_support": [
+          "Total HDR Solution",
+          "HDR10",
+          "HDR10+",
+          "HLG",
+          "Dolby Vision"
+        ],
+        "audio": [
+          "Dolby Atmos",
+          "EZ Play (Soundbar calibration and control)"
+        ],
+        "smart_features": [
+          "AI Picture Optimization",
+          "AI Sports Mode"
+        ],
+        "gaming": "Game Mode Plus (Latency reduction)",
+        "sensors": "Adaptive Light Sensor"
+      },
+      "key_features": [
+        {
+          "value": "Quantum Dot Colour: Over a billion shades of precise color and high color volume.",
+          "value_citation": "https://hisenseme.com/products/u6k-pro"
+        },
+        {
+          "value": "HI-View Engine: Intelligent processor for 4K upscaling and color enhancement.",
+          "value_citation": "https://hisenseme.com/products/u6k-pro"
+        },
+        {
+          "value": "Adaptive Light Sensor: Automatically adjusts brightness based on environment.",
+          "value_citation": "https://hisenseme.com/products/u6k-pro"
+        },
+        {
+          "value": "Total HDR Solution: Support for all major HDR formats.",
+          "value_citation": "https://hisenseme.com/products/u6k-pro"
+        },
+        {
+          "value": "Dolby Vision Atmos: Integrated cinematic sight and sound technology.",
+          "value_citation": "https://hisenseme.com/products/u6k-pro"
+        },
+        {
+          "value": "Game Mode Plus: Collection of technologies to minimize latency.",
+          "value_citation": "https://hisenseme.com/products/u6k-pro"
+        },
+        {
+          "value": "AI Sport Mode: Enhances fast-moving objects and audio for sports viewing.",
+          "value_citation": "https://hisenseme.com/products/u6k-pro"
+        },
+        {
+          "value": "AI Optimization: Real-time analysis to adjust brightness, resolution, and color.",
+          "value_citation": "https://hisenseme.com/products/u6k-pro"
+        },
+        {
+          "value": "EZ Play: Seamless synchronization between Hisense TV and soundbars.",
+          "value_citation": "https://hisenseme.com/products/u6k-pro"
+        }
+      ]
+    },
+    {
+      "product_name": "C2 Ultra Laser Mini Projector",
+      "product_name_citation": "https://hisenseme.com/products/c2-ultra-mini-projector",
+      "technical_specifications": {
+        "resolution": "4K",
+        "projection_size": "65\" to 300\"",
+        "optical_zoom": "1.67 flexible zoom",
+        "light_source": "MCL38 Pure tri-color Laser (28 laser chips)",
+        "adjustability": "360° horizontal and 135° vertical gimbal",
+        "dimensions": "520W x 324D x 160H (mm)",
+        "audio": "1.2L built-in woofer",
+        "smart_os": "VIDAA Smart OS",
+        "connectivity": [
+          "HDMI ports",
+          "USB ports"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "4K AI Upscaler: Transforms content into 4K quality.",
+          "value_citation": "https://hisenseme.com/products/c2-ultra-mini-projector"
+        },
+        {
+          "value": "Digital Laser Engine: Uses MCL38 laser design for precise color.",
+          "value_citation": "https://hisenseme.com/products/c2-ultra-mini-projector"
+        },
+        {
+          "value": "Designed for Xbox: Automatically prioritizes game signals and reduces latency.",
+          "value_citation": "https://hisenseme.com/products/c2-ultra-mini-projector"
+        },
+        {
+          "value": "Dolby Vision: Cinema-quality visual certification.",
+          "value_citation": "https://hisenseme.com/products/c2-ultra-mini-projector"
+        },
+        {
+          "value": "Audio Technologies: Dolby Atmos and DTS Virtual X.",
+          "value_citation": "https://hisenseme.com/products/c2-ultra-mini-projector"
+        },
+        {
+          "value": "3D Capabilities: Supports both 3D audio and 3D visuals.",
+          "value_citation": "https://hisenseme.com/products/c2-ultra-mini-projector"
+        },
+        {
+          "value": "Multi-Surface Projection: Suitable for walls, ground, and ceiling.",
+          "value_citation": "https://hisenseme.com/products/c2-ultra-mini-projector"
+        },
+        {
+          "value": "Versatile Mounting: Wall, ceiling, or floor installation options.",
+          "value_citation": "https://hisenseme.com/products/c2-ultra-mini-projector"
+        },
+        {
+          "value": "Streaming Integration: Direct access to Netflix, YouTube, Disney+.",
+          "value_citation": "https://hisenseme.com/products/c2-ultra-mini-projector"
+        }
+      ]
+    },
+    {
+      "product_name": "13KG Top Load Washing Machine WTJA1302T (JA Series)",
+      "product_name_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t",
+      "technical_specifications": {
+        "capacity_options": [
+          "13kg",
+          "10.5kg",
+          "8kg"
+        ],
+        "model_numbers": [
+          "WTJA1302T",
+          "WTJA1301T",
+          "WTJA1101T",
+          "WTJA801T"
+        ],
+        "dimensions_13kg": "580mm (W) x 590mm (H) x 996mm (D)",
+        "dimensions_10_5kg": "550mm (W) x 560mm (H) x 968mm (D)",
+        "dimensions_8kg": "532mm (W) x 532mm (H) x 920mm (D)",
+        "available_colors": [
+          "Titanium",
+          "Gray"
+        ],
+        "loading_type": "Top Load"
+      },
+      "key_features": [
+        {
+          "value": "Bubble Clean: Maze-like detergent box dissolves detergent into deep-penetrating bubbles.",
+          "value_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t"
+        },
+        {
+          "value": "Extra Soft: Enhances fabric softness and reduces detergent impact.",
+          "value_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t"
+        },
+        {
+          "value": "Smart Fuzzy Logic Control: Automatically weighs laundry and adjusts water levels.",
+          "value_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t"
+        },
+        {
+          "value": "Powerful Waterfall: High-pressure waterfall removes stubborn stains.",
+          "value_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t"
+        },
+        {
+          "value": "Double Magic Filter: Health filtration with two filters to capture lint and debris.",
+          "value_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t"
+        },
+        {
+          "value": "Mega Capacity: 13kg capacity for large family loads.",
+          "value_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t"
+        },
+        {
+          "value": "Delay End: Schedule preferred wash completion time.",
+          "value_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t"
+        },
+        {
+          "value": "Soft-closing: Lid design for controlled, gentle closing.",
+          "value_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t"
+        },
+        {
+          "value": "Memory Function: Stores settings for convenient laundry.",
+          "value_citation": "https://hisenseme.com/products/13kg-top-load-washing-machine-wtja1302t"
+        }
+      ]
+    },
+    {
+      "product_name": "670L REFRIGERATOR RS670N4ASU (Side-by-side)",
+      "product_name_citation": "https://hisenseme.com/products/670l-refrigerator-rs670n4asu",
+      "technical_specifications": {
+        "total_capacity": "670L",
+        "dimensions": "910W x 643D x 1786H (mm)",
+        "water_dispenser_volume": "2.2 Liter",
+        "handle_type": "External Metal Handle",
+        "door_system": "Self-closing (up to 15°)",
+        "cooling_system": "Multi-Air Flow",
+        "lighting": "Soft LED Lighting"
+      },
+      "key_features": [
+        {
+          "value": "Total No Frost: Keeps food fresh longer; eliminates manual defrosting.",
+          "value_citation": "https://hisenseme.com/products/670l-refrigerator-rs670n4asu"
+        },
+        {
+          "value": "External Metal Handle: User-friendly design for easy door opening.",
+          "value_citation": "https://hisenseme.com/products/670l-refrigerator-rs670n4asu"
+        },
+        {
+          "value": "Ice & Water Dispenser: Built-in 2.2L dispenser for ice cubes, crushed ice, or chilled water.",
+          "value_citation": "https://hisenseme.com/products/670l-refrigerator-rs670n4asu"
+        },
+        {
+          "value": "Multi-Air Flow System: Even distribution of cold air maintains optimum temperature.",
+          "value_citation": "https://hisenseme.com/products/670l-refrigerator-rs670n4asu"
+        },
+        {
+          "value": "Soft LED Lighting: Cold light illuminates all corners without increasing temperature.",
+          "value_citation": "https://hisenseme.com/products/670l-refrigerator-rs670n4asu"
+        },
+        {
+          "value": "Self-closing System: Door automatically closes when left open at up to 15°.",
+          "value_citation": "https://hisenseme.com/products/670l-refrigerator-rs670n4asu"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense C1 4K Laser Mini Projector (Cube C1 Mini Projector)",
+      "product_name_citation": "https://hisenseme.com/products/c1-laser-projector",
+      "technical_specifications": {
+        "resolution": "4K UHD",
+        "brightness": "1600 ANSI Lumens (Certified)",
+        "color_gamut": "110% BT.2020",
+        "laser_technology": "TriChroma Laser",
+        "projection_size": "65\" - 300\"",
+        "hdr_formats": [
+          "Dolby Vision",
+          "HDR10",
+          "HLG"
+        ],
+        "audio": "Sound by JBL, 2 x 10W built-in speakers, 1L sound chamber",
+        "audio_effects": "Dolby Atmos",
+        "operating_system": "VIDAA Smart OS",
+        "processor": "Microsecond level processor with neuro network NPU calibration",
+        "adjustment_sensors": [
+          "High accuracy dual CMOS module",
+          "ToF Laser Radar",
+          "ALS high sensitivity light sensor"
+        ],
+        "dimensions": "245W x 216H x 179D (mm)",
+        "connectivity": "Multiple connections for gaming consoles and sound devices",
+        "voice_control": [
+          "Alexa",
+          "VIDAA VOICE"
+        ],
+        "remote": "Backlit hands-free voice remote"
+      },
+      "key_features": [
+        {
+          "value": "Automagic Adjusting System: Full auto focus and alignment using CMOS, ToF, and ALS sensors.",
+          "value_citation": "https://hisenseme.com/products/c1-laser-projector"
+        },
+        {
+          "value": "Superior Image Quality: Enhanced black levels, bright whites via TriChroma technology.",
+          "value_citation": "https://hisenseme.com/products/c1-laser-projector"
+        },
+        {
+          "value": "MEMC Technology: Fast motion rate with microsecond response times.",
+          "value_citation": "https://hisenseme.com/products/c1-laser-projector"
+        },
+        {
+          "value": "Portable Design: Compact Cube form factor for indoor/outdoor viewing.",
+          "value_citation": "https://hisenseme.com/products/c1-laser-projector"
+        },
+        {
+          "value": "Integrated Streaming: Built-in apps including Netflix, Disney+, Prime Video.",
+          "value_citation": "https://hisenseme.com/products/c1-laser-projector"
+        },
+        {
+          "value": "Versatile Audio: Functions as home theater and standalone music player.",
+          "value_citation": "https://hisenseme.com/products/c1-laser-projector"
+        },
+        {
+          "value": "Human Visual Perception Optimized: Brightness calibrated for indoor rooms.",
+          "value_citation": "https://hisenseme.com/products/c1-laser-projector"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense UHD A61N / A62NS Smart TV",
+      "product_name_citation": "https://hisenseme.com/products/a61na62ns",
+      "technical_specifications": {
+        "display_sizes": [
+          "43\"",
+          "50\"",
+          "55\"",
+          "58\"",
+          "65\"",
+          "70\"",
+          "75\"",
+          "85\""
+        ],
+        "resolution": "4K UHD",
+        "refresh_rate": "60Hz",
+        "display_technology": "Direct Full Array (LED backlighting grid)",
+        "panel_type": "UHD",
+        "image_processing": [
+          "4K AI Upscaler",
+          "Precision Colour",
+          "Smooth Motion (MEMC and 3D Noise Reduction)"
+        ],
+        "hdr_formats": "Dolby Vision",
+        "audio": [
+          "DTS Virtual:X",
+          "Dolby Audio"
+        ],
+        "gaming_features": [
+          "Game Mode PLUS",
+          "Variable Refresh Rate (VRR)",
+          "Low Latency MEMC"
+        ],
+        "connectivity": [
+          "Bluetooth (headphone support)",
+          "Dual Band Wi-Fi",
+          "Share to TV"
+        ],
+        "smart_features": [
+          "Voice Control",
+          "Voice Remote",
+          "Global and Local Content OS"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "4K AI Upscaler: Transforms lower resolution content into 4K quality.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "Precision Colour: Enhanced depth of hues and textures for realistic imagery.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "Direct Full Array: Tightly packed LED grid for pinpoint brightness and deep blacks.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "Dolby Vision: Premium HDR for enhanced cinematic visuals.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "Filmmaker Mode: Adjusts video to original settings for authentic viewing.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "DTS Virtual:X: Immersive audio with crystal clarity and realistic surround effects.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "Smooth Motion: Banishes motion blur using MEMC and 3D noise reduction.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "AI Sports Mode: Optimizes visuals and audio for stadium-like experience.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "Game Mode PLUS: Optimized for 60Hz panels with low latency and VRR.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "Voice Control: Hands-free navigation and content searching.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "Bluetooth Connectivity: Direct pairing for wireless headphones.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        },
+        {
+          "value": "Share to TV: Casting and mirroring for videos, photos, and games.",
+          "value_citation": "https://hisenseme.com/products/a61na62ns"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Top Mount 599L Refrigerator RT599N4ASU1",
+      "product_name_citation": "https://hisenseme.com/products/599l-refrigerator-rt599n4asu",
+      "technical_specifications": {
+        "model": "RT599N4ASU1",
+        "type": "Top Mount",
+        "capacity": "599L",
+        "dimensions": "704mm (W) x 686mm (D) x 1850mm (H)",
+        "color": "Silver"
+      },
+      "key_features": [
+        {
+          "value": "Total No Frost: Circulates cold air to prevent ice crystals, eliminating manual defrosting.",
+          "value_citation": "https://hisenseme.com/products/599l-refrigerator-rt599n4asu"
+        },
+        {
+          "value": "Deodorizing Filter: Activated Carbon to eliminate odors and preserve food flavor.",
+          "value_citation": "https://hisenseme.com/products/599l-refrigerator-rt599n4asu"
+        },
+        {
+          "value": "New Twist Ice Maker: Single knob mechanism to easily dispense ice.",
+          "value_citation": "https://hisenseme.com/products/599l-refrigerator-rt599n4asu"
+        },
+        {
+          "value": "Adjustable Shelf: Fully adjustable shelving for large bottles and tall items.",
+          "value_citation": "https://hisenseme.com/products/599l-refrigerator-rt599n4asu"
+        },
+        {
+          "value": "Super Cool: One-touch function for rapid cooling.",
+          "value_citation": "https://hisenseme.com/products/599l-refrigerator-rt599n4asu"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense Heat Pump Dryer 3S series",
+      "product_name_citation": "https://hisenseme.com/products/3s-dryer",
+      "technical_specifications": {
+        "model_numbers": [
+          "WD3S9043BW (Black)",
+          "WD3S8042BW (White)"
+        ],
+        "available_capacities": [
+          "9/6 kg",
+          "8/5 kg"
+        ],
+        "dimensions_9_6kg": "595mm (W) x 560mm (H) x 845mm (D)",
+        "dimensions_8_5kg": "595mm (W) x 510mm (H) x 845mm (D)",
+        "drying_technology": "Heat Pump (low temperature)",
+        "sensors": "High-precision residual moisture and temperature sensors",
+        "available_colors": [
+          "Black",
+          "White"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Heat Pump Technology: Energy-efficient, high-quality drying at lower temperatures.",
+          "value_citation": "https://hisenseme.com/products/3s-dryer"
+        },
+        {
+          "value": "Auto Dry: Automatically adjusts drying times based on sensor data.",
+          "value_citation": "https://hisenseme.com/products/3s-dryer"
+        },
+        {
+          "value": "Allergy Care: Uses hot air and extended cycle to remove allergens.",
+          "value_citation": "https://hisenseme.com/products/3s-dryer"
+        },
+        {
+          "value": "Quick 30': Specialized mode for drying light loads up to 1kg in 30 minutes.",
+          "value_citation": "https://hisenseme.com/products/3s-dryer"
+        },
+        {
+          "value": "Refresh Program: 10-minute cycle using unheated air to remove odors.",
+          "value_citation": "https://hisenseme.com/products/3s-dryer"
+        },
+        {
+          "value": "Reversible Door: Adjustable door orientation for stacking or side-by-side.",
+          "value_citation": "https://hisenseme.com/products/3s-dryer"
+        },
+        {
+          "value": "Steam Refresh: Feature for freshening garments.",
+          "value_citation": "https://hisenseme.com/products/3s-dryer"
+        }
+      ]
+    },
+    {
+      "product_name": "Wall Mounted DC Inverter R410A (AS-30TF4SKFCA00)",
+      "product_name_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-30tf4skfca00)",
+      "technical_specifications": {
+        "model_number": "AS-30TF4SKFCA00",
+        "type": "Wall Mounted",
+        "refrigerant": "R410A",
+        "indoor_dimensions": "1173W × 325H × 228D",
+        "outdoor_dimensions": "900W × 750H × 340D",
+        "technology": "3D Inverter Technology",
+        "energy_efficiency": "Reduces power consumption by up to 30%",
+        "connectivity": "WiFi Control (Android and iOS compatible)",
+        "air_filtration": [
+          "4-in-1 Filter",
+          "Hi-Nano ion stream"
+        ],
+        "design_components": [
+          "Optimized inner air duct",
+          "Advanced louver fin"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "WiFi Control: Remote operation inside and outside the home.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-30tf4skfca00)"
+        },
+        {
+          "value": "Hi-Nano: Ion streams to kill and remove bacteria and viruses.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-30tf4skfca00)"
+        },
+        {
+          "value": "4-in-1 Filter: Removes dust and odors.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-30tf4skfca00)"
+        },
+        {
+          "value": "High Energy Efficiency: 3D inverter technology and optimized ducting.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-30tf4skfca00)"
+        },
+        {
+          "value": "Easy Cleaning: Interior unit disassembles in less than one minute.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-30tf4skfca00)"
+        },
+        {
+          "value": "Easy Installation: Connect pipes while unit is hanging on wall.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-30tf4skfca00)"
+        },
+        {
+          "value": "Easy Maintenance: Access PCB and fan motor without moving evaporator.",
+          "value_citation": "https://hisenseme.com/products/dc-inverter-r410a-(as-30tf4skfca00)"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense U8N ULED MiniLED",
+      "product_name_citation": "https://hisenseme.com/products/u8n",
+      "technical_specifications": {
+        "display_sizes": [
+          "85\"",
+          "75\"",
+          "65\""
+        ],
+        "display_type": "ULED Mini-LED",
+        "resolution": "4K",
+        "refresh_rate": "144Hz (Native), 120Hz Ultra Motion",
+        "brightness": "3000 nits",
+        "backlight": "Mini LED Pro with 500,000+ dimming zones (Dynamic Tone Mapping PRO)",
+        "processor": "Hi-View Engine PRO (AI-driven with Deep Neural Network)",
+        "audio_system": "Multi-Channel Surround 2.1.2",
+        "audio_technologies": [
+          "Dolby Atmos",
+          "DTS-powered audio",
+          "Hi-Concerto"
+        ],
+        "hdr_support": [
+          "Total HDR Solution",
+          "Dolby Vision",
+          "HDR10",
+          "HDR10+",
+          "HLG"
+        ],
+        "operating_system": "VIDAA OS",
+        "gaming_features": [
+          "144Hz Game Mode PRO",
+          "VRR",
+          "Low Latency MEMC",
+          "Game Bar"
+        ],
+        "motion_enhancement": [
+          "MEMC",
+          "3D Noise Reduction"
+        ],
+        "screen_coating": "Low Reflection Screen",
+        "sensors": "Total Ambient Adaptive",
+        "voice_control": "Hands-Free Voice Control",
+        "stand": "Single Stand"
+      },
+      "key_features": [
+        {
+          "value": "Mini LED Pro: Advanced backlight control for precise light and darkness.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "Quantum Dot Colour: Enhanced color accuracy and vibrance.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "Hi-View Engine PRO: AI-enhanced pixel-by-pixel real-time optimization and 4K upscaling.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "Total HDR Solution: Comprehensive compatibility with all major HDR formats.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "IMAX Enhanced: Certified for IMAX signature picture quality and audio immersion.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "Filmmaker Mode: Displays content in original settings as intended by directors.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "144Hz Game Mode PRO: Ultra-fluid motion and low latency for competitive gaming.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "Game Bar: Real-time dashboard for gaming metrics and display adjustments.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "Multi-Channel Surround: Integrated 2.1.2 surround sound experience.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "Total Ambient Adaptive: Automatically optimizes picture quality based on room lighting.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "Low Reflection Screen: Minimizes glare from external light sources.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        },
+        {
+          "value": "AI Sports Mode: Specifically optimized settings for sports viewing.",
+          "value_citation": "https://hisenseme.com/products/u8n"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 3S Series Washing Machine",
+      "product_name_citation": "https://hisenseme.com/products/3s-series-washing-machine",
+      "technical_specifications": {
+        "model_numbers": [
+          "WF3S9043BT (Titanium Grey)",
+          "WF3S9043BW (White)"
+        ],
+        "capacity_options": [
+          "9 kg",
+          "10.5 kg",
+          "12 kg"
+        ],
+        "dimensions_9kg": "595mm (W) x 580mm (H) x 845mm (D)",
+        "dimensions_10_5kg": "595mm (W) x 620mm (H) x 845mm (D)",
+        "dimensions_12kg": "595mm (W) x 670mm (H) x 845mm (D)",
+        "motor_type": "BLDC Inverter (Durable Inverter)",
+        "color_options": [
+          "Titanium Grey",
+          "White"
+        ],
+        "connectivity": [
+          "Wi-Fi enabled",
+          "Connect Life App",
+          "Smart Link"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Connect Life: App-based control and monitoring.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "Smart Link: Automatically syncs washing programs to dryer and preheats it.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "3-in-1 Quick Wash: 49-minute wash, 30-minute Quicker, and 15-minute express.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "Allergy Steam: Releases steam to eliminate 99.9% of allergens and microbes.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "Auto Wash: Automatically senses laundry load to adjust cycles.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "Jet Wash: Top-mounted jet for stain removal and detergent distribution.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "Smart Assist: Recommends settings based on fabric type, color, and soil level.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "Pause & Add: Allows adding clothes after cycle has started.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "Energy Monitoring: Tracks cumulative water and electricity usage.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "Self Diagnostic: Provides error codes for troubleshooting.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        },
+        {
+          "value": "Durable Inverter: BLDC motor for reduced noise and high energy efficiency.",
+          "value_citation": "https://hisenseme.com/products/3s-series-washing-machine"
+        }
+      ]
+    },
+    {
+      "product_name": "3.1CH DOLBY ATMOS SOUNDBAR WITH WIRELESS SUBWOOFER HS312",
+      "product_name_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312",
+      "technical_specifications": {
+        "total_power": "300W",
+        "channels": "3.1CH",
+        "audio_technology": "Dolby Atmos",
+        "speaker_configuration": "Virtual upward-firing speakers, side-firing speakers",
+        "video_support": [
+          "4K Pass-Through",
+          "High Dynamic Range (HDR) signal"
+        ],
+        "connectivity": [
+          "Bluetooth",
+          "HDMI",
+          "Optical cable"
+        ],
+        "soundbar_dimensions": "980W x 58H x 90D (mm)",
+        "subwoofer": "Wireless",
+        "audio_enhancement_modes": [
+          "Movie",
+          "Music",
+          "Sports",
+          "Late Night",
+          "News"
+        ],
+        "controls": "Top-mounted physical buttons, Remote control with Bass buttons"
+      },
+      "key_features": [
+        {
+          "value": "Immersive Audio: Enveloping sound from all directions including overhead.",
+          "value_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312"
+        },
+        {
+          "value": "Wireless Subwoofer: Rich, powerful bass without cables; adjustable via remote.",
+          "value_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312"
+        },
+        {
+          "value": "4K Pass-Through: Seamless integration for 4K UHD TVs and HDR content.",
+          "value_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312"
+        },
+        {
+          "value": "Wireless Streaming: Bluetooth connectivity for smartphones, tablets, laptops.",
+          "value_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312"
+        },
+        {
+          "value": "Design: Metal luster surface design.",
+          "value_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312"
+        },
+        {
+          "value": "One Touch Access: Easy-to-use top panel buttons.",
+          "value_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312"
+        },
+        {
+          "value": "Easy Connectivity: Simplified setup via single HDMI or optical cable.",
+          "value_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312"
+        },
+        {
+          "value": "Multiple Sound Modes: Specialized audio profiles for various content types.",
+          "value_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312"
+        },
+        {
+          "value": "TV Compatibility: Designed for Hisense 4K UHD TVs; supports single remote operation.",
+          "value_citation": "https://hisenseme.com/products/3.1ch-dolby-atmos-soundbar-with-wireless-subwoofer-hs312"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 7S Series Washing Machine WF7S1247BB",
+      "product_name_citation": "https://hisenseme.com/products/7s-12kg-washing-machine",
+      "technical_specifications": {
+        "model_number": "WF7S1247BB",
+        "capacity": "12 kg",
+        "color": "Black",
+        "dimensions": "595mm (W) x 845mm (H) x 660mm (D)",
+        "display": "6.8-inch Intelligent TFT Display with touch controls",
+        "connectivity": [
+          "ConnectLife (Smart home integration)",
+          "Remote Control via smartphone"
+        ]
+      },
+      "key_features": [
+        {
+          "value": "Intelligent TFT Display: 6.8-inch vibrant interface with intuitive touch controls.",
+          "value_citation": "https://hisenseme.com/products/7s-12kg-washing-machine"
+        },
+        {
+          "value": "ConnectLife: Remote management and smart home integration via smartphone.",
+          "value_citation": "https://hisenseme.com/products/7s-12kg-washing-machine"
+        },
+        {
+          "value": "AI Super Wash: Automatically adjusts water usage, detergent levels, and wash time.",
+          "value_citation": "https://hisenseme.com/products/7s-12kg-washing-machine"
+        },
+        {
+          "value": "Auto Dosing: Stores detergent for up to 24 loads; automatically dispenses precise amounts.",
+          "value_citation": "https://hisenseme.com/products/7s-12kg-washing-machine"
+        },
+        {
+          "value": "UV Light: Internal sterilization that eliminates bacteria without chemicals.",
+          "value_citation": "https://hisenseme.com/products/7s-12kg-washing-machine"
+        },
+        {
+          "value": "Hygiene Guard: Includes Drum Clean, Soapbox Clean, and Pure Jet function.",
+          "value_citation": "https://hisenseme.com/products/7s-12kg-washing-machine"
+        },
+        {
+          "value": "Smart Assist: Semi-automatic wizard recommending ideal washing programs.",
+          "value_citation": "https://hisenseme.com/products/7s-12kg-washing-machine"
+        },
+        {
+          "value": "Pure Jet: Specialized function to wash away stains on door and bellow.",
+          "value_citation": "https://hisenseme.com/products/7s-12kg-washing-machine"
+        }
+      ]
+    },
+    {
+      "product_name": "3S Series Washer & Dryer Combo",
+      "product_name_citation": "https://hisenseme.com/products/3s-washer-dryer-combo",
+      "technical_specifications": {
+        "models_colors": [
+          "Black: WD3S9043BW",
+          "White: WD3S8042BW"
+        ],
+        "capacity_dimensions_9_6kg": "595mm (W) × 560mm (H) × 845mm (D)",
+        "capacity_dimensions_8_5kg": "595mm (W) × 510mm (H) × 845mm (D)",
+        "motor_type": "BLDC Durable Inverter",
+        "connectivity": "Connect Life (Smart app integration)",
+        "steam_technology": "Allergy Steam",
+        "functionality": "2-in-1 Washer and Dryer solution",
+        "diagnostic_system": "Self Diagnostic with error code notification",
+        "cleaning_system": "Lint Clean water flush system"
+      },
+      "key_features": [
+        {
+          "value": "Connect Life: Automatically syncs washing programs to dryer and preheats in advance.",
+          "value_citation": "https://hisenseme.com/products/3s-washer-dryer-combo"
+        },
+        {
+          "value": "Quick Wash Options: 49-minute standard, 30-minute Quicker, 15-minute quick wash.",
+          "value_citation": "https://hisenseme.com/products/3s-washer-dryer-combo"
+        },
+        {
+          "value": "Allergy Steam: Releases steam to eliminate 99.9% of allergens and microbes.",
+          "value_citation": "https://hisenseme.com/products/3s-washer-dryer-combo"
+        },
+        {
+          "value": "Auto Function: Automatically recognizes laundry load and adjusts cycles.",
+          "value_citation": "https://hisenseme.com/products/3s-washer-dryer-combo"
+        },
+        {
+          "value": "Self Diagnostic: Automatically detects malfunctions and provides error codes.",
+          "value_citation": "https://hisenseme.com/products/3s-washer-dryer-combo"
+        },
+        {
+          "value": "Durable Inverter: BLDC motor to reduce noise and improve energy efficiency.",
+          "value_citation": "https://hisenseme.com/products/3s-washer-dryer-combo"
+        },
+        {
+          "value": "Quick Wash & Dry: Complete wash and dry cycle finished in 1 hour.",
+          "value_citation": "https://hisenseme.com/products/3s-washer-dryer-combo"
+        },
+        {
+          "value": "Lint Clean: Flushes lint with water at end of rinse cycle.",
+          "value_citation": "https://hisenseme.com/products/3s-washer-dryer-combo"
+        }
+      ]
+    },
+    {
+      "product_name": "Hisense 3S Series Dryer",
+      "product_name_citation": "https://hisenseme.com/products/3s-series-dryer",
+      "technical_specifications": {
+        "capacity": "10.5 kg",
+        "motor_type": "Durable Inverter"
+      },
+      "key_features": [
+        {
+          "value": "Energy efficient drying with Durable Inverter technology.",
+          "value_citation": "https://hisenseme.com/products/3s-series-dryer"
+        }
+      ]
+    }
+  ]
+}

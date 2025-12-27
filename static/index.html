@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hisense Product Recommender</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Hisense Product Finder</h1>
+            <p class="subtitle">AI-powered recommendations for TVs, Refrigerators, Washing Machines, ACs & more</p>
+        </header>
+
+        <main>
+            <div class="chat-container">
+                <div id="messages" class="messages">
+                    <div class="message assistant">
+                        <div class="message-content">
+                            <p>Hi! I'm your Hisense product assistant. Tell me what you're looking for, and I'll find the perfect match.</p>
+                            <p class="example-queries">Try: <span class="example">"Best TV for gaming"</span> <span class="example">"Large fridge for family of 5"</span> <span class="example">"Washing machine with smart features"</span></p>
+                        </div>
+                    </div>
+                </div>
+
+                <form id="query-form" class="query-form">
+                    <input
+                        type="text"
+                        id="query-input"
+                        placeholder="What are you looking for today?"
+                        autocomplete="off"
+                        required
+                    >
+                    <button type="submit" id="submit-btn">
+                        <span class="btn-text">Search</span>
+                        <span class="btn-loading" style="display: none;">...</span>
+                    </button>
+                </form>
+            </div>
+        </main>
+
+        <footer>
+            <p>Powered by AI | <a href="/docs" target="_blank">API Docs</a></p>
+        </footer>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

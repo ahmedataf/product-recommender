@@ -1,0 +1,717 @@
+{
+  "products": [
+    {
+      "id": "tv-001",
+      "name": "Samsung 55\" Crystal 4K UHD Smart TV",
+      "category": "tv",
+      "brand": "Samsung",
+      "price": 52990,
+      "specs": {
+        "screen_size": 55,
+        "resolution": "4K",
+        "smart_tv": true,
+        "refresh_rate": 60,
+        "panel_type": "LED"
+      },
+      "description": "Crystal 4K processor delivers stunning clarity. Smart TV with built-in streaming apps.",
+      "image_url": "/images/tv-001.jpg",
+      "in_stock": true,
+      "rating": 4.3
+    },
+    {
+      "id": "tv-002",
+      "name": "LG 43\" Full HD Smart LED TV",
+      "category": "tv",
+      "brand": "LG",
+      "price": 28990,
+      "specs": {
+        "screen_size": 43,
+        "resolution": "Full HD",
+        "smart_tv": true,
+        "refresh_rate": 60,
+        "panel_type": "LED"
+      },
+      "description": "Perfect for bedrooms and smaller spaces. WebOS smart platform with voice control.",
+      "image_url": "/images/tv-002.jpg",
+      "in_stock": true,
+      "rating": 4.1
+    },
+    {
+      "id": "tv-003",
+      "name": "Sony 65\" BRAVIA XR OLED 4K",
+      "category": "tv",
+      "brand": "Sony",
+      "price": 189990,
+      "specs": {
+        "screen_size": 65,
+        "resolution": "4K",
+        "smart_tv": true,
+        "refresh_rate": 120,
+        "panel_type": "OLED"
+      },
+      "description": "Premium OLED display with cognitive processor XR. Perfect blacks and vivid colors for cinematic experience.",
+      "image_url": "/images/tv-003.jpg",
+      "in_stock": true,
+      "rating": 4.8
+    },
+    {
+      "id": "tv-004",
+      "name": "Mi 32\" HD Ready Smart TV",
+      "category": "tv",
+      "brand": "Xiaomi",
+      "price": 13999,
+      "specs": {
+        "screen_size": 32,
+        "resolution": "HD",
+        "smart_tv": true,
+        "refresh_rate": 60,
+        "panel_type": "LED"
+      },
+      "description": "Budget-friendly smart TV with Android TV built-in. Ideal for small rooms.",
+      "image_url": "/images/tv-004.jpg",
+      "in_stock": true,
+      "rating": 4.0
+    },
+    {
+      "id": "tv-005",
+      "name": "Samsung 75\" Neo QLED 4K",
+      "category": "tv",
+      "brand": "Samsung",
+      "price": 224990,
+      "specs": {
+        "screen_size": 75,
+        "resolution": "4K",
+        "smart_tv": true,
+        "refresh_rate": 120,
+        "panel_type": "QLED"
+      },
+      "description": "Mini LED technology with quantum matrix. Gaming hub with 120Hz for smooth gameplay.",
+      "image_url": "/images/tv-005.jpg",
+      "in_stock": true,
+      "rating": 4.7
+    },
+    {
+      "id": "tv-006",
+      "name": "LG 55\" 4K OLED evo C3",
+      "category": "tv",
+      "brand": "LG",
+      "price": 129990,
+      "specs": {
+        "screen_size": 55,
+        "resolution": "4K",
+        "smart_tv": true,
+        "refresh_rate": 120,
+        "panel_type": "OLED"
+      },
+      "description": "Self-lit OLED pixels. α9 Gen6 AI Processor. Dolby Vision and Atmos support.",
+      "image_url": "/images/tv-006.jpg",
+      "in_stock": true,
+      "rating": 4.6
+    },
+    {
+      "id": "tv-007",
+      "name": "TCL 50\" 4K Google TV",
+      "category": "tv",
+      "brand": "TCL",
+      "price": 32990,
+      "specs": {
+        "screen_size": 50,
+        "resolution": "4K",
+        "smart_tv": true,
+        "refresh_rate": 60,
+        "panel_type": "LED"
+      },
+      "description": "Google TV with hands-free voice control. HDR10 for vibrant colors.",
+      "image_url": "/images/tv-007.jpg",
+      "in_stock": true,
+      "rating": 4.2
+    },
+    {
+      "id": "tv-008",
+      "name": "OnePlus 55\" Q2 Pro QLED",
+      "category": "tv",
+      "brand": "OnePlus",
+      "price": 69990,
+      "specs": {
+        "screen_size": 55,
+        "resolution": "4K",
+        "smart_tv": true,
+        "refresh_rate": 120,
+        "panel_type": "QLED"
+      },
+      "description": "QLED display with 120Hz refresh rate. IMAX Enhanced for premium viewing.",
+      "image_url": "/images/tv-008.jpg",
+      "in_stock": true,
+      "rating": 4.4
+    },
+    {
+      "id": "tv-009",
+      "name": "Vu 43\" Premium 4K Google TV",
+      "category": "tv",
+      "brand": "Vu",
+      "price": 24999,
+      "specs": {
+        "screen_size": 43,
+        "resolution": "4K",
+        "smart_tv": true,
+        "refresh_rate": 60,
+        "panel_type": "LED"
+      },
+      "description": "4K resolution at affordable price. Built-in Chromecast and Google Assistant.",
+      "image_url": "/images/tv-009.jpg",
+      "in_stock": true,
+      "rating": 4.0
+    },
+    {
+      "id": "tv-010",
+      "name": "Sony 50\" BRAVIA Full Array LED 4K",
+      "category": "tv",
+      "brand": "Sony",
+      "price": 74990,
+      "specs": {
+        "screen_size": 50,
+        "resolution": "4K",
+        "smart_tv": true,
+        "refresh_rate": 60,
+        "panel_type": "LED"
+      },
+      "description": "Full Array LED with X1 processor. Triluminos Pro display for accurate colors.",
+      "image_url": "/images/tv-010.jpg",
+      "in_stock": true,
+      "rating": 4.5
+    },
+
+    {
+      "id": "fridge-001",
+      "name": "Samsung 653L Side by Side Refrigerator",
+      "category": "fridge",
+      "brand": "Samsung",
+      "price": 89990,
+      "specs": {
+        "capacity_liters": 653,
+        "type": "side-by-side",
+        "energy_rating": 3,
+        "frost_free": true,
+        "convertible": true
+      },
+      "description": "Spacious side-by-side with SpaceMax technology. Digital inverter compressor for energy efficiency.",
+      "image_url": "/images/fridge-001.jpg",
+      "in_stock": true,
+      "rating": 4.4
+    },
+    {
+      "id": "fridge-002",
+      "name": "LG 260L Double Door Refrigerator",
+      "category": "fridge",
+      "brand": "LG",
+      "price": 28990,
+      "specs": {
+        "capacity_liters": 260,
+        "type": "double",
+        "energy_rating": 3,
+        "frost_free": true,
+        "convertible": false
+      },
+      "description": "Perfect for small families. Smart inverter compressor with 10-year warranty.",
+      "image_url": "/images/fridge-002.jpg",
+      "in_stock": true,
+      "rating": 4.2
+    },
+    {
+      "id": "fridge-003",
+      "name": "Whirlpool 190L Single Door",
+      "category": "fridge",
+      "brand": "Whirlpool",
+      "price": 15490,
+      "specs": {
+        "capacity_liters": 190,
+        "type": "single",
+        "energy_rating": 4,
+        "frost_free": false,
+        "convertible": false
+      },
+      "description": "Direct cool technology. Ideal for bachelors or couples. Low power consumption.",
+      "image_url": "/images/fridge-003.jpg",
+      "in_stock": true,
+      "rating": 4.0
+    },
+    {
+      "id": "fridge-004",
+      "name": "Samsung 465L Double Door Convertible",
+      "category": "fridge",
+      "brand": "Samsung",
+      "price": 52990,
+      "specs": {
+        "capacity_liters": 465,
+        "type": "double",
+        "energy_rating": 3,
+        "frost_free": true,
+        "convertible": true
+      },
+      "description": "5-in-1 convertible modes. Twin cooling plus for optimal freshness. Great for families of 4-5.",
+      "image_url": "/images/fridge-004.jpg",
+      "in_stock": true,
+      "rating": 4.5
+    },
+    {
+      "id": "fridge-005",
+      "name": "LG 687L French Door",
+      "category": "fridge",
+      "brand": "LG",
+      "price": 149990,
+      "specs": {
+        "capacity_liters": 687,
+        "type": "french-door",
+        "energy_rating": 2,
+        "frost_free": true,
+        "convertible": true
+      },
+      "description": "Premium French door design. InstaView door-in-door. Linear cooling for even temperatures.",
+      "image_url": "/images/fridge-005.jpg",
+      "in_stock": true,
+      "rating": 4.6
+    },
+    {
+      "id": "fridge-006",
+      "name": "Haier 320L Double Door",
+      "category": "fridge",
+      "brand": "Haier",
+      "price": 32990,
+      "specs": {
+        "capacity_liters": 320,
+        "type": "double",
+        "energy_rating": 3,
+        "frost_free": true,
+        "convertible": false
+      },
+      "description": "1-hour icing technology. Twin inverter for silent operation. Good for families of 3-4.",
+      "image_url": "/images/fridge-006.jpg",
+      "in_stock": true,
+      "rating": 4.1
+    },
+    {
+      "id": "fridge-007",
+      "name": "Godrej 236L Double Door",
+      "category": "fridge",
+      "brand": "Godrej",
+      "price": 24990,
+      "specs": {
+        "capacity_liters": 236,
+        "type": "double",
+        "energy_rating": 3,
+        "frost_free": true,
+        "convertible": false
+      },
+      "description": "Nano shield technology for freshness. Toughened glass shelves. Budget-friendly option.",
+      "image_url": "/images/fridge-007.jpg",
+      "in_stock": true,
+      "rating": 4.0
+    },
+    {
+      "id": "fridge-008",
+      "name": "Bosch 559L Side by Side",
+      "category": "fridge",
+      "brand": "Bosch",
+      "price": 109990,
+      "specs": {
+        "capacity_liters": 559,
+        "type": "side-by-side",
+        "energy_rating": 3,
+        "frost_free": true,
+        "convertible": false
+      },
+      "description": "German engineering. VitaFresh technology keeps produce fresh longer. Ice and water dispenser.",
+      "image_url": "/images/fridge-008.jpg",
+      "in_stock": true,
+      "rating": 4.5
+    },
+    {
+      "id": "fridge-009",
+      "name": "Whirlpool 415L Double Door",
+      "category": "fridge",
+      "brand": "Whirlpool",
+      "price": 44990,
+      "specs": {
+        "capacity_liters": 415,
+        "type": "double",
+        "energy_rating": 3,
+        "frost_free": true,
+        "convertible": true
+      },
+      "description": "IntelliFresh inverter technology. 6th Sense ActiveFresh. Suitable for families of 4-5.",
+      "image_url": "/images/fridge-009.jpg",
+      "in_stock": true,
+      "rating": 4.3
+    },
+    {
+      "id": "fridge-010",
+      "name": "LG 185L Single Door",
+      "category": "fridge",
+      "brand": "LG",
+      "price": 16990,
+      "specs": {
+        "capacity_liters": 185,
+        "type": "single",
+        "energy_rating": 5,
+        "frost_free": false,
+        "convertible": false
+      },
+      "description": "5-star energy rating for lowest power bills. Smart inverter compressor. Best for 1-2 people.",
+      "image_url": "/images/fridge-010.jpg",
+      "in_stock": true,
+      "rating": 4.2
+    },
+
+    {
+      "id": "ac-001",
+      "name": "Daikin 1.5 Ton 5 Star Inverter Split AC",
+      "category": "ac",
+      "brand": "Daikin",
+      "price": 52990,
+      "specs": {
+        "tonnage": 1.5,
+        "type": "split",
+        "energy_rating": 5,
+        "inverter": true,
+        "cooling_capacity_btu": 18000
+      },
+      "description": "Best-in-class energy efficiency. Coanda airflow for even cooling. Ideal for rooms up to 180 sqft.",
+      "image_url": "/images/ac-001.jpg",
+      "in_stock": true,
+      "rating": 4.6
+    },
+    {
+      "id": "ac-002",
+      "name": "LG 1 Ton 3 Star Dual Inverter Split AC",
+      "category": "ac",
+      "brand": "LG",
+      "price": 34990,
+      "specs": {
+        "tonnage": 1.0,
+        "type": "split",
+        "energy_rating": 3,
+        "inverter": true,
+        "cooling_capacity_btu": 12000
+      },
+      "description": "Dual inverter compressor with low noise. HD filter with anti-virus protection. For rooms up to 120 sqft.",
+      "image_url": "/images/ac-002.jpg",
+      "in_stock": true,
+      "rating": 4.3
+    },
+    {
+      "id": "ac-003",
+      "name": "Voltas 1.5 Ton 3 Star Window AC",
+      "category": "ac",
+      "brand": "Voltas",
+      "price": 29990,
+      "specs": {
+        "tonnage": 1.5,
+        "type": "window",
+        "energy_rating": 3,
+        "inverter": false,
+        "cooling_capacity_btu": 18000
+      },
+      "description": "Reliable cooling for Indian summers. Copper condenser for durability. Budget-friendly option.",
+      "image_url": "/images/ac-003.jpg",
+      "in_stock": true,
+      "rating": 4.0
+    },
+    {
+      "id": "ac-004",
+      "name": "Samsung 2 Ton 3 Star Inverter Split AC",
+      "category": "ac",
+      "brand": "Samsung",
+      "price": 54990,
+      "specs": {
+        "tonnage": 2.0,
+        "type": "split",
+        "energy_rating": 3,
+        "inverter": true,
+        "cooling_capacity_btu": 24000
+      },
+      "description": "Wind-Free cooling technology. Digital inverter for efficiency. Suitable for rooms up to 250 sqft.",
+      "image_url": "/images/ac-004.jpg",
+      "in_stock": true,
+      "rating": 4.4
+    },
+    {
+      "id": "ac-005",
+      "name": "Blue Star 1.5 Ton 5 Star Inverter Split AC",
+      "category": "ac",
+      "brand": "Blue Star",
+      "price": 48990,
+      "specs": {
+        "tonnage": 1.5,
+        "type": "split",
+        "energy_rating": 5,
+        "inverter": true,
+        "cooling_capacity_btu": 18000
+      },
+      "description": "Precision cooling with 5-star rating. Turbo cool mode for quick cooling. For rooms up to 180 sqft.",
+      "image_url": "/images/ac-005.jpg",
+      "in_stock": true,
+      "rating": 4.5
+    },
+    {
+      "id": "ac-006",
+      "name": "Carrier 1 Ton 5 Star Window AC",
+      "category": "ac",
+      "brand": "Carrier",
+      "price": 32990,
+      "specs": {
+        "tonnage": 1.0,
+        "type": "window",
+        "energy_rating": 5,
+        "inverter": false,
+        "cooling_capacity_btu": 12000
+      },
+      "description": "5-star efficiency in window format. Auto clean function. Ideal for bedrooms up to 120 sqft.",
+      "image_url": "/images/ac-006.jpg",
+      "in_stock": true,
+      "rating": 4.2
+    },
+    {
+      "id": "ac-007",
+      "name": "Hitachi 1.5 Ton 4 Star Inverter Split AC",
+      "category": "ac",
+      "brand": "Hitachi",
+      "price": 44990,
+      "specs": {
+        "tonnage": 1.5,
+        "type": "split",
+        "energy_rating": 4,
+        "inverter": true,
+        "cooling_capacity_btu": 18000
+      },
+      "description": "iClean technology for self-cleaning. Tropical design for hot climates. For rooms up to 180 sqft.",
+      "image_url": "/images/ac-007.jpg",
+      "in_stock": true,
+      "rating": 4.4
+    },
+    {
+      "id": "ac-008",
+      "name": "Lloyd 1 Ton 3 Star Inverter Split AC",
+      "category": "ac",
+      "brand": "Lloyd",
+      "price": 28990,
+      "specs": {
+        "tonnage": 1.0,
+        "type": "split",
+        "energy_rating": 3,
+        "inverter": true,
+        "cooling_capacity_btu": 12000
+      },
+      "description": "Anti-viral filter protection. PM 2.5 filter for clean air. Budget inverter AC for small rooms.",
+      "image_url": "/images/ac-008.jpg",
+      "in_stock": true,
+      "rating": 4.0
+    },
+    {
+      "id": "ac-009",
+      "name": "Panasonic 2 Ton 5 Star Inverter Split AC",
+      "category": "ac",
+      "brand": "Panasonic",
+      "price": 62990,
+      "specs": {
+        "tonnage": 2.0,
+        "type": "split",
+        "energy_rating": 5,
+        "inverter": true,
+        "cooling_capacity_btu": 24000
+      },
+      "description": "Nanoe-X technology for air purification. MirAIe smart control. For large rooms up to 280 sqft.",
+      "image_url": "/images/ac-009.jpg",
+      "in_stock": true,
+      "rating": 4.6
+    },
+    {
+      "id": "ac-010",
+      "name": "Godrej 1.5 Ton 3 Star Inverter Split AC",
+      "category": "ac",
+      "brand": "Godrej",
+      "price": 36990,
+      "specs": {
+        "tonnage": 1.5,
+        "type": "split",
+        "energy_rating": 3,
+        "inverter": true,
+        "cooling_capacity_btu": 18000
+      },
+      "description": "I-Sense technology for intelligent cooling. 100% inner grooved copper. Affordable inverter AC.",
+      "image_url": "/images/ac-010.jpg",
+      "in_stock": true,
+      "rating": 4.1
+    },
+
+    {
+      "id": "mw-001",
+      "name": "Samsung 28L Convection Microwave Oven",
+      "category": "microwave",
+      "brand": "Samsung",
+      "price": 14990,
+      "specs": {
+        "capacity_liters": 28,
+        "type": "convection",
+        "wattage": 900,
+        "auto_cook_menus": 30
+      },
+      "description": "Full convection with hotblast technology. Ceramic enamel cavity for easy cleaning. Great for baking.",
+      "image_url": "/images/mw-001.jpg",
+      "in_stock": true,
+      "rating": 4.4
+    },
+    {
+      "id": "mw-002",
+      "name": "LG 20L Solo Microwave Oven",
+      "category": "microwave",
+      "brand": "LG",
+      "price": 6990,
+      "specs": {
+        "capacity_liters": 20,
+        "type": "solo",
+        "wattage": 700,
+        "auto_cook_menus": 44
+      },
+      "description": "Basic reheating and cooking. i-wave technology for even cooking. Budget-friendly option.",
+      "image_url": "/images/mw-002.jpg",
+      "in_stock": true,
+      "rating": 4.1
+    },
+    {
+      "id": "mw-003",
+      "name": "IFB 25L Grill Microwave Oven",
+      "category": "microwave",
+      "brand": "IFB",
+      "price": 11990,
+      "specs": {
+        "capacity_liters": 25,
+        "type": "grill",
+        "wattage": 800,
+        "auto_cook_menus": 25
+      },
+      "description": "Microwave + grill combo. Steam clean function. Perfect for grilling and reheating.",
+      "image_url": "/images/mw-003.jpg",
+      "in_stock": true,
+      "rating": 4.3
+    },
+    {
+      "id": "mw-004",
+      "name": "Panasonic 27L Convection Microwave",
+      "category": "microwave",
+      "brand": "Panasonic",
+      "price": 16990,
+      "specs": {
+        "capacity_liters": 27,
+        "type": "convection",
+        "wattage": 900,
+        "auto_cook_menus": 101
+      },
+      "description": "Magic grill for crispy grilling. 101 auto menus including Indian recipes. Great for families.",
+      "image_url": "/images/mw-004.jpg",
+      "in_stock": true,
+      "rating": 4.5
+    },
+    {
+      "id": "mw-005",
+      "name": "Whirlpool 20L Solo Microwave",
+      "category": "microwave",
+      "brand": "Whirlpool",
+      "price": 5990,
+      "specs": {
+        "capacity_liters": 20,
+        "type": "solo",
+        "wattage": 700,
+        "auto_cook_menus": 30
+      },
+      "description": "Compact design for small kitchens. Feather touch controls. Most affordable solo option.",
+      "image_url": "/images/mw-005.jpg",
+      "in_stock": true,
+      "rating": 4.0
+    },
+    {
+      "id": "mw-006",
+      "name": "Samsung 32L Convection Microwave",
+      "category": "microwave",
+      "brand": "Samsung",
+      "price": 18990,
+      "specs": {
+        "capacity_liters": 32,
+        "type": "convection",
+        "wattage": 1000,
+        "auto_cook_menus": 40
+      },
+      "description": "Large capacity for families. Slim fry technology for healthy frying. Tandoor technology.",
+      "image_url": "/images/mw-006.jpg",
+      "in_stock": true,
+      "rating": 4.4
+    },
+    {
+      "id": "mw-007",
+      "name": "IFB 30L Convection Microwave",
+      "category": "microwave",
+      "brand": "IFB",
+      "price": 17990,
+      "specs": {
+        "capacity_liters": 30,
+        "type": "convection",
+        "wattage": 900,
+        "auto_cook_menus": 101
+      },
+      "description": "Rotisserie function for whole chicken. Oil-free cooking options. Premium build quality.",
+      "image_url": "/images/mw-007.jpg",
+      "in_stock": true,
+      "rating": 4.5
+    },
+    {
+      "id": "mw-008",
+      "name": "LG 28L Charcoal Convection Microwave",
+      "category": "microwave",
+      "brand": "LG",
+      "price": 19990,
+      "specs": {
+        "capacity_liters": 28,
+        "type": "convection",
+        "wattage": 900,
+        "auto_cook_menus": 211
+      },
+      "description": "Charcoal lighting heater for tandoor-like cooking. Diet fry for healthy cooking. 211 auto cook menus.",
+      "image_url": "/images/mw-008.jpg",
+      "in_stock": true,
+      "rating": 4.6
+    },
+    {
+      "id": "mw-009",
+      "name": "Godrej 23L Grill Microwave",
+      "category": "microwave",
+      "brand": "Godrej",
+      "price": 8990,
+      "specs": {
+        "capacity_liters": 23,
+        "type": "grill",
+        "wattage": 800,
+        "auto_cook_menus": 125
+      },
+      "description": "InstaCook menus for quick cooking. Child lock for safety. Good value grill microwave.",
+      "image_url": "/images/mw-009.jpg",
+      "in_stock": true,
+      "rating": 4.1
+    },
+    {
+      "id": "mw-010",
+      "name": "Bajaj 17L Solo Microwave",
+      "category": "microwave",
+      "brand": "Bajaj",
+      "price": 4490,
+      "specs": {
+        "capacity_liters": 17,
+        "type": "solo",
+        "wattage": 700,
+        "auto_cook_menus": 5
+      },
+      "description": "Most compact and affordable option. Mechanical controls. Basic reheating for small spaces.",
+      "image_url": "/images/mw-010.jpg",
+      "in_stock": true,
+      "rating": 3.8
+    }
+  ]
+}
