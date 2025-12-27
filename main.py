@@ -59,6 +59,9 @@ async def get_recommendations(request: RecommendationRequest):
         engine = get_recommendation_engine()
         return engine.get_recommendations(request.query)
     except Exception as e:
+        import traceback
+        print(f"Error in /api/recommend: {e}")
+        traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
 
